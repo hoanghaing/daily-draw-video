@@ -202,3 +202,23 @@ export function parseEnv(text: string): Record<string, string> {
   }
   return out;
 }
+
+/** True when the date already has its video: the log is committed, so a fresh runner can tell. */
+export function alreadyDone(log: { date: string }[], date: string): boolean {
+  return log.some((entry) => entry.date === date);
+}
+
+/** The video bot's two variables, or an error that names the one that is missing. Nothing else is read. */
+export function requireTelegramEnv(env: Record<string, string | undefined>) {
+  for (const name of ["TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID"] as const) {
+    if (!env[name]?.trim()) throw new Error(`${name} is not set`);
+  }
+  return { TELEGRAM_BOT_TOKEN: env.TELEGRAM_BOT_TOKEN!.trim(), TELEGRAM_CHAT_ID: env.TELEGRAM_CHAT_ID!.trim() };
+}
+
+/** A real calendar day written YYYY-MM-DD. */
+export function isDateKey(value: string): boolean {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) return false;
+  const parsed = new Date(`${value}T00:00:00Z`);
+  return !Number.isNaN(parsed.getTime()) && parsed.toISOString().slice(0, 10) === value;
+}

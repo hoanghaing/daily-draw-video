@@ -2,6 +2,9 @@ import assert from "node:assert/strict";
 import { test } from "node:test";
 
 import {
+  alreadyDone,
+  isDateKey,
+  requireTelegramEnv,
   loadDeck,
   buildCaptions,
   englishComment,
@@ -166,4 +169,27 @@ test("validateKnowledge also requires the English hook and caption", () => {
   const missing = { ...item("b") } as Record<string, unknown>;
   delete missing.en;
   assert.equal(validateKnowledge([missing]).length, 1);
+});
+
+test("alreadyDone is true only for a date that is in the log", () => {
+  assert.equal(alreadyDone([{ date: "2026-10-16" }], "2026-10-16"), true);
+  assert.equal(alreadyDone([{ date: "2026-10-16" }], "2026-10-17"), false);
+  assert.equal(alreadyDone([], "2026-10-17"), false);
+});
+
+test("requireTelegramEnv names the variable that is missing or empty", () => {
+  assert.deepEqual(requireTelegramEnv({ TELEGRAM_BOT_TOKEN: "t", TELEGRAM_CHAT_ID: "-1001" }), {
+    TELEGRAM_BOT_TOKEN: "t",
+    TELEGRAM_CHAT_ID: "-1001",
+  });
+  assert.throws(() => requireTelegramEnv({ TELEGRAM_CHAT_ID: "-1001" }), /TELEGRAM_BOT_TOKEN/);
+  assert.throws(() => requireTelegramEnv({ TELEGRAM_BOT_TOKEN: "t", TELEGRAM_CHAT_ID: " " }), /TELEGRAM_CHAT_ID/);
+});
+
+test("isDateKey accepts only a real YYYY-MM-DD", () => {
+  assert.equal(isDateKey("2026-01-05"), true);
+  assert.equal(isDateKey("oops"), false);
+  assert.equal(isDateKey("2026-13-05"), false);
+  assert.equal(isDateKey("2026-02-30"), false);
+  assert.equal(isDateKey(""), false);
 });
