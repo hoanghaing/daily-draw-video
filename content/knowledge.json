@@ -1,0 +1,477 @@
+[
+  {
+    "id": "k-001",
+    "status": "used",
+    "hook": "Bài ngược không có nghĩa là bài xấu.",
+    "lines": [
+      "Mặt Trời ngược không phải là hết nắng.",
+      "Ánh sáng vẫn còn, chỉ là đang tạm bị che.",
+      "Bài ngược hay hỏi: điều gì đang che lá bài này?"
+    ],
+    "cardId": "sun",
+    "caption": "Lá bài ngược hiếm khi là một lời phán xét. Nó chỉ ra chỗ năng lượng đang bị kẹt, bị che hoặc chậm lại. Lần tới rút được bài ngược, thử hỏi: điều gì đang che lá này? Bạn từng rút bài ngược mà càng nghĩ càng thấy đáng nghĩ chưa?",
+    "en": {
+      "hook": "A reversed card doesn't mean a bad card.",
+      "caption": "A reversed card is rarely a verdict. It points to where energy is stuck, covered or slowed. Next time you draw one, ask: what is covering this card? Have you ever drawn a reversed card that gave you a lot to think about?"
+    }
+  },
+  {
+    "id": "k-002",
+    "status": "used",
+    "hook": "Tòa Tháp không phải lá bài trừng phạt.",
+    "lines": [
+      "Nó đánh đổ thứ được dựng trên nền móng giả.",
+      "Đổ vỡ thì đau, nhưng nó cho thấy cái gì vốn không vững.",
+      "Có chỗ trống rồi mới có thể xây lại cho thật."
+    ],
+    "cardId": "tower",
+    "caption": "Tòa Tháp nghe đáng sợ, nhưng nó nói về sự thật bị lộ ra chứ không phải một hình phạt. Thứ sụp xuống thường là thứ đã lung lay từ trước. Bạn nghĩ gì khi thấy Tòa Tháp xuất hiện trong lá bài của mình?",
+    "en": {
+      "hook": "The Tower isn't a punishment card.",
+      "caption": "The Tower sounds frightening, but it is about truth coming to light, not a punishment. What falls is usually what was already shaky. What do you think when the Tower shows up in your draw?"
+    }
+  },
+  {
+    "id": "k-003",
+    "status": "queued",
+    "hook": "Chàng Khờ không khờ như tên gọi.",
+    "lines": [
+      "Anh bước đi mà không mang theo gánh nặng cũ.",
+      "Đó không phải liều lĩnh, mà là lòng tin để bắt đầu.",
+      "Không cần bản đồ, chỉ cần bước chân đầu tiên."
+    ],
+    "cardId": "fool",
+    "caption": "Chàng Khờ là lá số 0, điểm bắt đầu của cả bộ bài. Anh bước đi mà không cần bản đồ, mang theo ít và tin nhiều. Nếu hôm nay được bắt đầu lại một điều nhỏ, bạn sẽ chọn điều gì?",
+    "en": {
+      "hook": "The Fool isn't as foolish as the name sounds.",
+      "caption": "The Fool is card 0, the starting point of the whole deck. He steps forward without a map, carrying little and trusting a lot. If you could begin one small thing again today, what would it be?"
+    }
+  },
+  {
+    "id": "k-004",
+    "status": "queued",
+    "hook": "Vì sao chỉ nên rút một lá mỗi ngày?",
+    "lines": [
+      "Một lá đủ để bạn dừng lại và nghĩ một chút.",
+      "Rút nhiều quá, ta dễ chọn lá mình muốn nghe.",
+      "Một lá, một câu hỏi, rồi đi tiếp ngày của mình."
+    ],
+    "caption": "Rút một lá mỗi ngày là một thói quen nhỏ để dừng lại, không phải để biết trước điều gì. Rút nhiều lá quá, ta dễ chọn lá mình muốn nghe. Bạn thích rút lá bài vào lúc nào trong ngày?",
+    "en": {
+      "hook": "Why draw only one card a day?",
+      "caption": "One card a day is a small habit of pausing, not a way to know what's coming. Draw too many and it's easy to pick the card you want to hear. When in the day do you like to draw yours?"
+    }
+  },
+  {
+    "id": "k-005",
+    "status": "queued",
+    "hook": "Đừng hỏi tarot 'có hay không'.",
+    "lines": [
+      "Câu trả lời có hoặc không khép cánh cửa lại.",
+      "Hãy thử hỏi: mình cần chú ý điều gì ở chuyện này?",
+      "Lá bài sẽ có chỗ để nói nhiều hơn một chữ."
+    ],
+    "caption": "Tarot không giỏi trả lời có hoặc không, nhưng rất hợp để gợi ra một góc nhìn mới. Thử đổi 'liệu mình có...?' thành 'mình cần chú ý điều gì ở chuyện này?'. Câu hỏi 'có hay không' nào bạn muốn viết lại?",
+    "en": {
+      "hook": "Don't ask tarot 'yes or no'.",
+      "caption": "Tarot isn't great at yes or no, but it is good at opening a new angle. Try changing 'will I...?' into 'what do I need to pay attention to here?'. Which yes-or-no question would you like to rewrite?"
+    }
+  },
+  {
+    "id": "k-006",
+    "status": "queued",
+    "hook": "Bộ tarot có 78 lá, chia làm hai nhóm.",
+    "lines": [
+      "22 lá Ẩn Chính nói về những chặng lớn của đời người.",
+      "56 lá Ẩn Phụ nói về chuyện thường ngày: việc, tiền, tình cảm.",
+      "Trải bài nhiều Ẩn Chính thường là chuyện lớn hơn."
+    ],
+    "caption": "Bộ tarot có 22 lá Ẩn Chính (những chặng lớn) và 56 lá Ẩn Phụ (chuyện đời thường). Biết lá mình rút thuộc nhóm nào giúp bạn đọc nó đúng tầm hơn. Hôm nay lá bạn rút thuộc nhóm nào?",
+    "en": {
+      "hook": "A tarot deck has 78 cards in two groups.",
+      "caption": "The deck has 22 Major Arcana (the big chapters) and 56 Minor Arcana (everyday life). Knowing which group a card belongs to helps you read it at the right scale. Which group was your latest card from?"
+    }
+  },
+  {
+    "id": "k-007",
+    "status": "queued",
+    "hook": "Bộ Cốc không chỉ nói chuyện yêu đương.",
+    "lines": [
+      "Cốc thuộc nguyên tố nước: cảm xúc và trực giác.",
+      "Nó hỏi bạn đang cảm thấy gì, không chỉ ai đang yêu ai.",
+      "Nữ Hoàng Cốc: cảm nhận sâu và biết giữ chỗ cho người khác."
+    ],
+    "cardId": "queen-of-cups",
+    "caption": "Bộ Cốc thuộc nguyên tố nước, nói về cảm xúc, trực giác và các mối quan hệ nói chung, không riêng chuyện yêu đương. Rút phải lá Cốc, thử hỏi: mình đang thật sự cảm thấy gì? Bạn thấy bộ nào trong tarot gần với mình nhất?",
+    "en": {
+      "hook": "The suit of Cups isn't only about romance.",
+      "caption": "Cups belong to water: feelings, intuition and relationships in general, not just love. When you draw a Cup, ask: what am I really feeling? Which suit feels closest to you?"
+    }
+  },
+  {
+    "id": "k-008",
+    "status": "queued",
+    "hook": "Bộ Gậy là bộ của ngọn lửa.",
+    "lines": [
+      "Gậy thuộc nguyên tố lửa: sáng tạo, thôi thúc, khởi đầu.",
+      "Át Gậy là tia lửa đầu tiên của một ý tưởng táo bạo.",
+      "Khi bài ngược, tia lửa vẫn còn nhưng đang bị kẹt lại."
+    ],
+    "cardId": "ace-of-wands",
+    "caption": "Bộ Gậy là lửa: năng lượng, đam mê và thôi thúc bắt đầu. Át Gậy là tia lửa đầu tiên; khi bài ngược, tia lửa vẫn còn nhưng đang bị kẹt lại. Ý tưởng nào của bạn đang chờ được châm lửa?",
+    "en": {
+      "hook": "The suit of Wands is the suit of fire.",
+      "caption": "Wands are fire: energy, passion and the urge to begin. The Ace is the first spark; reversed, the spark is still there but stuck. Which idea of yours is waiting to be lit?"
+    }
+  },
+  {
+    "id": "k-009",
+    "status": "queued",
+    "hook": "Bộ Kiếm không phải bộ của điềm xấu.",
+    "lines": [
+      "Kiếm thuộc nguyên tố khí: suy nghĩ, lời nói, sự thật.",
+      "Át Kiếm là khoảnh khắc mọi thứ bỗng sáng tỏ.",
+      "Nó sắc, nhưng cái sắc ấy giúp bạn nhìn rõ hơn."
+    ],
+    "cardId": "ace-of-swords",
+    "caption": "Hình ảnh thanh kiếm dễ làm người ta e ngại, nhưng bộ Kiếm nói về suy nghĩ, lời nói và sự thật. Át Kiếm là lúc mọi thứ sáng tỏ sau một quãng hoang mang. Có sự thật nào mà bạn thấy nhẹ hơn khi nhìn thẳng vào nó?",
+    "en": {
+      "hook": "The suit of Swords isn't a bad omen.",
+      "caption": "A sword can feel intimidating, but this suit is about thought, words and truth. The Ace of Swords is the moment things become clear after a stretch of confusion. Is there a truth that felt lighter once you looked straight at it?"
+    }
+  },
+  {
+    "id": "k-010",
+    "status": "queued",
+    "hook": "Bộ Tiền không chỉ nói chuyện tiền bạc.",
+    "lines": [
+      "Tiền thuộc nguyên tố đất: công việc, thói quen, nền móng.",
+      "Át Tiền là hạt giống của một cơ hội cầm nắm được.",
+      "Đất không vội, nhưng cái gì trồng đúng chỗ thì bền."
+    ],
+    "cardId": "ace-of-pentacles",
+    "caption": "Bộ Tiền (Pentacles) thuộc nguyên tố đất, nói về những thứ cụ thể: công việc, thói quen, nền móng. Át Tiền là hạt giống của một khởi đầu có thể cầm nắm được. Bạn muốn gieo hạt giống nhỏ nào trong tuần này?",
+    "en": {
+      "hook": "The suit of Pentacles isn't only about money.",
+      "caption": "Pentacles belong to earth and speak about concrete things: work, habits, foundations. The Ace is the seed of a beginning you can hold in your hand. What small seed would you like to plant this week?"
+    }
+  },
+  {
+    "id": "k-011",
+    "status": "queued",
+    "hook": "Nữ Tư Tế không bảo bạn phải làm gì.",
+    "lines": [
+      "Cô nói về một câu trả lời nằm dưới bề mặt.",
+      "Biết bằng trực giác trước khi biết bằng lý trí.",
+      "Lá này mời bạn lắng nghe bên trong trước khi hành động."
+    ],
+    "cardId": "high-priestess",
+    "caption": "Nữ Tư Tế là lá của sự im lặng có chủ ý: câu trả lời đã nằm dưới bề mặt, chỉ chờ được lắng nghe. Khi ồn ào bên ngoài quá lớn, tiếng bên trong dễ bị át. Hôm nay có lúc nào bạn dừng lại để nghe chính mình không?",
+    "en": {
+      "hook": "The High Priestess doesn't tell you what to do.",
+      "caption": "The High Priestess is deliberate silence: the answer already lies beneath the surface, waiting to be heard. When the noise outside is loud, the voice inside gets drowned out. Did you pause today to listen to yourself?"
+    }
+  },
+  {
+    "id": "k-012",
+    "status": "queued",
+    "hook": "Ẩn Sĩ không cô đơn, ông đang tìm đường.",
+    "lines": [
+      "Ông lùi lại không phải để trốn ai.",
+      "Ngọn đèn trong tay chỉ đủ soi vài bước phía trước.",
+      "Câu trả lời đến từ bên trong, không phải từ đám đông."
+    ],
+    "cardId": "hermit",
+    "caption": "Ẩn Sĩ là một mùa để lùi lại, tìm sự tĩnh lặng và để ánh sáng bên trong dẫn đường. Khi bài ngược, tĩnh lặng có thể đã thành cô lập, và là lúc bước ra nối lại. Bạn cần một quãng lặng như thế vào lúc nào?",
+    "en": {
+      "hook": "The Hermit isn't lonely, he's finding the way.",
+      "caption": "The Hermit is a season to step back, find stillness and let an inner light lead. Reversed, stillness may have turned into isolation, and it's time to step out and reconnect. When do you need a quiet stretch like that?"
+    }
+  },
+  {
+    "id": "k-013",
+    "status": "queued",
+    "hook": "Người Treo Ngược đang chờ, hay đang nhìn khác đi?",
+    "lines": [
+      "Anh dừng lại, nhưng không phải bị mắc kẹt.",
+      "Thôi kiểm soát để nhìn vấn đề từ một góc mới.",
+      "Có khi cần đổi góc nhìn hơn là cố làm nhanh hơn."
+    ],
+    "cardId": "hanged-man",
+    "caption": "Người Treo Ngược là một quãng dừng làm đổi khung mọi thứ. Khi bài ngược, quãng dừng ấy có thể đã thành giậm chân. Có chuyện nào bạn muốn thử nhìn từ một góc khác không?",
+    "en": {
+      "hook": "Is the Hanged Man waiting, or seeing differently?",
+      "caption": "The Hanged Man is a pause that changes the whole frame. Reversed, the pause may have become standing still. Is there something you'd like to try seeing from another angle?"
+    }
+  },
+  {
+    "id": "k-014",
+    "status": "queued",
+    "hook": "Sức Mạnh không phải là gồng lên.",
+    "lines": [
+      "Lá này nói về sức mạnh của sự kiên nhẫn.",
+      "Thuần phục bằng dịu dàng, không bằng vũ lực.",
+      "Can đảm thật là điềm tĩnh dưới áp lực."
+    ],
+    "cardId": "strength",
+    "caption": "Lá Sức Mạnh cho thấy can đảm không ồn ào: đó là kiên nhẫn, trắc ẩn và sự vững vàng khi bị thử. Bạn nghĩ sự dịu dàng có phải một dạng sức mạnh không?",
+    "en": {
+      "hook": "Strength isn't about clenching.",
+      "caption": "Strength shows that courage is quiet: patience, compassion and steadiness when tested. Do you think gentleness can be a form of strength?"
+    }
+  },
+  {
+    "id": "k-015",
+    "status": "queued",
+    "hook": "Công Lý không phải lá phán xử người khác.",
+    "lines": [
+      "Lá này nói về hệ quả gặp lại nguyên nhân của nó.",
+      "Nó đòi sự thành thật và tinh thần chịu trách nhiệm.",
+      "Câu hỏi hướng về mình trước: mình đã thành thật chưa?"
+    ],
+    "cardId": "justice",
+    "caption": "Công Lý là khoảnh khắc hệ quả gặp lại nguyên nhân của nó. Lá này đòi sự thành thật với chính mình và tinh thần chịu trách nhiệm. Có điều gì bạn muốn nhìn thật thà hơn không?",
+    "en": {
+      "hook": "Justice isn't a card for judging others.",
+      "caption": "Justice is the moment a consequence meets its cause. It asks for honesty with yourself and accountability. Is there something you'd like to look at more honestly?"
+    }
+  },
+  {
+    "id": "k-016",
+    "status": "queued",
+    "hook": "Mặt Trăng nhắc bạn: không phải điều gì cũng rõ ràng.",
+    "lines": [
+      "Dưới ánh trăng, mọi thứ trông khác ban ngày.",
+      "Lá này bảo đi thật cẩn thận qua vùng bất định.",
+      "Tin trực giác nhiều hơn vẻ ngoài của bề mặt."
+    ],
+    "cardId": "moon",
+    "caption": "Mặt Trăng là vùng bất định: mọi thứ không rõ như vẻ ngoài. Lá này bảo ta đi thật cẩn thận và để ý đến trực giác hơn bề mặt. Khi bài ngược, sương bắt đầu tan. Điều gì trở nên rõ hơn với bạn khi trời sáng?",
+    "en": {
+      "hook": "The Moon reminds you: not everything is clear.",
+      "caption": "The Moon is the realm of uncertainty: things aren't as they appear. It asks us to move carefully and trust intuition over the surface. Reversed, the fog starts to lift. What becomes clearer to you in daylight?"
+    }
+  },
+  {
+    "id": "k-017",
+    "status": "queued",
+    "hook": "Ngôi Sao là lá bài hy vọng, nhưng không ồn ào.",
+    "lines": [
+      "Hy vọng ở đây đến lặng lẽ, sau một điều khó nhọc.",
+      "Nó là sự chữa lành và niềm tin rằng phần tệ nhất đã qua.",
+      "Ngay cả lúc chưa cảm thấy, ánh sáng vẫn ở đó."
+    ],
+    "cardId": "star",
+    "caption": "Ngôi Sao là hy vọng lặng lẽ trở lại sau một điều khó nhọc: sự chữa lành, niềm tin và một cảm giác bình thản. Bài ngược nhắc rằng ánh sáng vẫn ở đó dù bạn không cảm thấy. Điều nhỏ nào đang cho bạn một chút hy vọng?",
+    "en": {
+      "hook": "The Star is a card of hope, but a quiet one.",
+      "caption": "The Star is hope returning quietly after something hard: healing, faith and a calm feeling. Reversed, it reminds you the light is still there even when you can't feel it. What small thing gives you a little hope?"
+    }
+  },
+  {
+    "id": "k-018",
+    "status": "queued",
+    "hook": "Tình Nhân không chỉ nói về tình yêu.",
+    "lines": [
+      "Đây là lá bài của sự lựa chọn.",
+      "Lựa chọn phơi bày điều bạn thật sự coi trọng.",
+      "Đồng điệu với người khác, hoặc với chính trái tim mình."
+    ],
+    "cardId": "lovers",
+    "caption": "Tình Nhân là một mối liên kết có ý nghĩa, hoặc một lựa chọn phơi bày điều bạn coi trọng. Nó có thể là sự đồng điệu với người khác, và cả với chính trái tim mình. Điều gì bạn coi trọng nhất lúc này?",
+    "en": {
+      "hook": "The Lovers isn't only about love.",
+      "caption": "The Lovers is a meaningful connection, or a choice that reveals what you value. It can be harmony with another person and with your own heart. What do you value most right now?"
+    }
+  },
+  {
+    "id": "k-019",
+    "status": "queued",
+    "hook": "Tiết Độ là nghệ thuật pha trộn.",
+    "lines": [
+      "Hai thái cực được hòa thành thứ dùng được.",
+      "Lá này là kiên nhẫn, chừng mực và đều tay.",
+      "Khi bài ngược, có thứ đã nghiêng quá xa về một phía."
+    ],
+    "cardId": "temperance",
+    "caption": "Tiết Độ là sự kiên nhẫn và chừng mực, pha đều tay những mặt đối lập thành hòa hợp. Bài ngược gợi ý có thứ đã nghiêng quá xa về một phía. Trong ngày của bạn, điều gì cần được chỉnh lại một chút?",
+    "en": {
+      "hook": "Temperance is the art of blending.",
+      "caption": "Temperance is patience and moderation, blending opposites into harmony. Reversed, something has tilted too far to one side. In your day, what needs adjusting a little?"
+    }
+  },
+  {
+    "id": "k-020",
+    "status": "queued",
+    "hook": "Ác Quỷ không phải lá bài của ma quỷ.",
+    "lines": [
+      "Nó nói về những sợi xích ta nhầm là chỗ dựa.",
+      "Một thói quen hay nỗi sợ cần được gọi tên thật thà.",
+      "Và ổ khóa ấy, chính bạn mở được."
+    ],
+    "cardId": "devil",
+    "caption": "Ác Quỷ không nói về ma quỷ mà nói về những ràng buộc: thói quen, nỗi sợ, những sợi xích ta nhầm là chỗ dựa. Gọi tên chúng là bước đầu tiên để thoát ra. Bạn đọc lá này như một lời nhắc hay một lời cảnh báo?",
+    "en": {
+      "hook": "The Devil isn't a card about demons.",
+      "caption": "The Devil isn't about demons but about bonds: habits, fears, chains we mistake for support. Naming them is the first step out. Do you read this card as a reminder or as a warning?"
+    }
+  },
+  {
+    "id": "k-021",
+    "status": "queued",
+    "hook": "Nữ Hoàng là sự chăm sóc, không chỉ là sự dịu dàng.",
+    "lines": [
+      "Điều bạn chăm bẵm đã sẵn sàng đơm hoa.",
+      "Sáng tạo màu mỡ và việc nuôi dưỡng tự nhiên bung nở.",
+      "Bài ngược nhắc: đừng quên chính mình khi chăm sóc."
+    ],
+    "cardId": "empress",
+    "caption": "Nữ Hoàng là điều bạn chăm bẵm đã sẵn sàng đơm hoa: sáng tạo, nuôi dưỡng và sự bung nở tự nhiên. Bài ngược nhắc đừng bỏ bê chính mình khi chăm lo cho người khác. Điều gì đang lớn lên nhờ sự chăm sóc của bạn?",
+    "en": {
+      "hook": "The Empress is care, not just softness.",
+      "caption": "The Empress is what you've tended, ready to bloom: creativity, nurture and natural flowering. Reversed, she reminds you not to neglect yourself while looking after others. What is growing because of your care?"
+    }
+  },
+  {
+    "id": "k-022",
+    "status": "queued",
+    "hook": "Nhà Ảo Thuật cho thấy bạn đã có đủ công cụ.",
+    "lines": [
+      "Trên bàn của ông có đủ bốn bộ bài.",
+      "Điều thiếu thường là bước biến ý định thành hành động.",
+      "Ý chí tập trung làm một điều trở thành thật."
+    ],
+    "cardId": "magician",
+    "caption": "Nhà Ảo Thuật là năng lực biến ý định thành hành động bằng ý chí tập trung. Bài ngược chỉ ra khoảng cách giữa điều bạn có thể làm và điều bạn đang làm. Hôm nay bạn muốn biến ý định nào thành một việc nhỏ cụ thể?",
+    "en": {
+      "hook": "The Magician shows you already have the tools.",
+      "caption": "The Magician is the ability to turn intention into action through focused will. Reversed, it shows the gap between what you can do and what you're doing. What intention would you turn into one small concrete action today?"
+    }
+  },
+  {
+    "id": "k-023",
+    "status": "queued",
+    "hook": "Cỗ Xe không phải là chạy nhanh.",
+    "lines": [
+      "Đà tiến được giữ vững giữa những lực đối nghịch.",
+      "Điều kéo Cỗ Xe đi là sự tự chủ, không phải tốc độ.",
+      "Giữ cương cho tốt là cách tới đích."
+    ],
+    "cardId": "chariot",
+    "caption": "Cỗ Xe là động lực và khả năng tự chủ đưa bạn tới một đích mà bạn không chịu bỏ. Bài ngược là lúc cương bị tuột, bị kéo về hai phía. Hướng đi nào bạn muốn giữ vững?",
+    "en": {
+      "hook": "The Chariot isn't about speed.",
+      "caption": "The Chariot is drive and self-mastery carrying you to a goal you won't give up. Reversed, the reins slip and you're pulled two ways. Which direction do you want to hold steady?"
+    }
+  },
+  {
+    "id": "k-024",
+    "status": "queued",
+    "hook": "Giáo Hoàng hỏi: điều bạn được dạy còn vừa với bạn không?",
+    "lines": [
+      "Xuôi: một người thầy hay một lối đi đáng để học.",
+      "Ngược: lúc chất vấn những quy tắc thừa hưởng.",
+      "Học từ người đi trước, rồi tìm lối đi của riêng mình."
+    ],
+    "cardId": "hierophant",
+    "caption": "Giáo Hoàng trân trọng minh triết đã được kiểm chứng và giá trị của niềm tin chung. Khi bài ngược, đó có thể là lúc chất vấn những quy tắc thừa hưởng. Điều gì bạn được dạy mà muốn nghĩ lại?",
+    "en": {
+      "hook": "The Hierophant asks: does what you were taught still fit?",
+      "caption": "The Hierophant honours proven wisdom and the value of shared belief. Reversed, it may be time to question inherited rules. What were you taught that you'd like to rethink?"
+    }
+  },
+  {
+    "id": "k-025",
+    "status": "queued",
+    "hook": "Phán Xét là tiếng gọi, không phải bản án.",
+    "lines": [
+      "Đây là khoảnh khắc nhìn lại mình thật thà.",
+      "Một cuộc thanh toán để dọn đường đi tới.",
+      "Và tiếng gọi vươn lên thành một điều mới."
+    ],
+    "cardId": "judgement",
+    "caption": "Phán Xét là lúc nhìn lại mình thật thà và nghe một tiếng gọi vươn lên thành điều mới. Bài ngược là tiếng gọi bị phớt lờ, hoặc sự tự trách quá nghiệt ngã. Nếu có một tiếng gọi như vậy, bạn nghĩ nó đang nói gì?",
+    "en": {
+      "hook": "Judgement is a calling, not a verdict.",
+      "caption": "Judgement is looking back at yourself honestly and hearing a call to rise into something new. Reversed, a call ignored, or self-blame turned harsh. If there were such a call, what do you think it's saying?"
+    }
+  },
+  {
+    "id": "k-026",
+    "status": "queued",
+    "hook": "Thế Giới là lá cuối cùng của bộ Ẩn Chính.",
+    "lines": [
+      "Đây là một chu kỳ đã trọn và nguyên vẹn.",
+      "Cảm giác thỏa lòng khi tới được nơi đã cố công đi tới.",
+      "Khi bài ngược: chỉ còn một mối chưa buộc."
+    ],
+    "cardId": "world",
+    "caption": "Thế Giới là sự viên mãn và hợp nhất, một chu kỳ đã trọn. Bài ngược là khi còn một mối chưa buộc và sự khép lại bị hoãn. Điều gì bạn muốn ghi nhận là mình đã đi được tới đây?",
+    "en": {
+      "hook": "The World is the last card of the Major Arcana.",
+      "caption": "The World is fulfilment and wholeness, a cycle completed. Reversed, one thread is still untied and the closing is delayed. What would you like to acknowledge about how far you've come?"
+    }
+  },
+  {
+    "id": "k-027",
+    "status": "queued",
+    "hook": "Hai Cốc là sự trân trọng đến từ cả hai phía.",
+    "lines": [
+      "Hai người gặp nhau ngang hàng.",
+      "Sự trân trọng thật lòng đến từ cả hai phía.",
+      "Khi bài ngược: một kết nối lệch cán."
+    ],
+    "cardId": "two-of-cups",
+    "caption": "Hai Cốc là hai người gặp nhau ngang hàng, một mối dây của sự trân trọng đến từ cả hai phía. Bài ngược gợi một kết nối lệch cán hoặc niềm tin đang căng ra. Với bạn, điều gì làm nên một kết nối ngang hàng?",
+    "en": {
+      "hook": "Two of Cups is respect from both sides.",
+      "caption": "Two of Cups is two people meeting as equals, a bond of respect flowing both ways. Reversed, it hints at a lopsided connection or trust stretched thin. For you, what makes a connection equal?"
+    }
+  },
+  {
+    "id": "k-028",
+    "status": "queued",
+    "hook": "Rời đi không phải lúc nào cũng là bỏ cuộc.",
+    "lines": [
+      "Tám Cốc là bỏ lại thứ không còn làm mình đủ đầy.",
+      "Đi để tìm điều sâu hơn, không phải để chạy trốn.",
+      "Ngược lại là muốn đi mà vẫn ở lại."
+    ],
+    "cardId": "eight-of-cups",
+    "caption": "Tám Cốc là bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn. Bài ngược là muốn đi mà vẫn ở lại, hoặc lang thang không có hướng. Bạn nghĩ lúc nào rời đi là đúng lúc?",
+    "en": {
+      "hook": "Leaving isn't always giving up.",
+      "caption": "Eight of Cups is leaving behind what no longer fulfils you to look for something deeper. Reversed, it's wanting to go but staying, or wandering without direction. When do you think leaving is right?"
+    }
+  },
+  {
+    "id": "k-029",
+    "status": "queued",
+    "hook": "Đọc trải bài 3 lá: bắt đầu từ đâu?",
+    "lines": [
+      "Ba lá là một câu chuyện ngắn: mở đầu, giữa, kết.",
+      "Đọc từng lá một, rồi đọc chúng cạnh nhau.",
+      "Chú ý lá nào gợi cho bạn cảm giác mạnh nhất."
+    ],
+    "caption": "Một trải bài 3 lá giống một câu chuyện ngắn có mở, giữa và kết. Đọc từng lá trước, rồi đọc chúng cạnh nhau để thấy mạch chung. Bạn thường bắt đầu đọc từ lá nào?",
+    "en": {
+      "hook": "Reading a three-card spread: where to start?",
+      "caption": "A three-card spread is like a short story with a beginning, a middle and an end. Read each card first, then read them together to see the thread. Which card do you usually start with?"
+    }
+  },
+  {
+    "id": "k-030",
+    "status": "queued",
+    "hook": "Tarot không nói bạn sẽ gặp gì ngày mai.",
+    "lines": [
+      "Lá bài không biết tương lai của bạn.",
+      "Nó gợi ra một câu hỏi để bạn nghĩ cùng.",
+      "Quyết định vẫn là của bạn."
+    ],
+    "caption": "Tarot không dự đoán tương lai. Lá bài gợi ra một câu hỏi, còn quyết định vẫn là của bạn. Dùng tarot để dừng lại và nghĩ, như vậy là đủ. Hôm nay lá bài nào làm bạn nghĩ nhiều nhất?",
+    "en": {
+      "hook": "Tarot won't tell you what tomorrow holds.",
+      "caption": "Tarot doesn't predict the future. A card opens a question; the decision stays yours. Using it to pause and think is enough. Which card made you think the most today?"
+    }
+  }
+]

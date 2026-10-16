@@ -1,0 +1,3518 @@
+{
+  "dates": [
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-24",
+    "2026-10-25",
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29",
+    "2026-11-30",
+    "2026-12-01",
+    "2026-12-02",
+    "2026-12-03",
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07",
+    "2026-12-08",
+    "2026-12-09",
+    "2026-12-10",
+    "2026-12-11",
+    "2026-12-12",
+    "2026-12-13",
+    "2026-12-14",
+    "2026-12-15",
+    "2026-12-16",
+    "2026-12-17",
+    "2026-12-18",
+    "2026-12-19",
+    "2026-12-20",
+    "2026-12-21",
+    "2026-12-22",
+    "2026-12-23",
+    "2026-12-24",
+    "2026-12-25",
+    "2026-12-26",
+    "2026-12-27",
+    "2026-12-28",
+    "2026-12-29",
+    "2026-12-30",
+    "2026-12-31",
+    "2027-01-01",
+    "2027-01-02",
+    "2027-01-03",
+    "2027-01-04",
+    "2027-01-05",
+    "2027-01-06",
+    "2027-01-07",
+    "2027-01-08",
+    "2027-01-09"
+  ],
+  "empty": [
+    {
+      "date": "2026-10-12",
+      "kind": "card",
+      "ref": "five-of-cups",
+      "cardId": "five-of-cups",
+      "hook": "Lá bài hôm nay: Năm Cốc",
+      "lines": [
+        "Dán mắt vào thứ đã đổ, chưa chịu quay sang những chiếc cốc vẫn còn đứng.",
+        "Từ khoá: đau buồn · mất mát · tiếc nuối",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Dán mắt vào thứ đã đổ, chưa chịu quay sang những chiếc cốc vẫn còn đứng.",
+      "english": {
+        "hook": "Card of the day: Five of Cups",
+        "caption": "Fixed on what has spilled, not yet turning to the cups still standing. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-13",
+      "kind": "card",
+      "ref": "temperance",
+      "cardId": "temperance",
+      "hook": "Lá bài hôm nay: Tiết Độ",
+      "lines": [
+        "Hai thái cực được hòa thành thứ dùng được.",
+        "Từ khoá: cân bằng · chừng mực · kiên nhẫn",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Hai thái cực được hòa thành thứ dùng được. Tiết Độ là sự kiên nhẫn, chừng mực, và việc pha trộn đều tay những mặt đối lập thành hòa hợp.",
+      "english": {
+        "hook": "Card of the day: Temperance",
+        "caption": "Two extremes blended into something workable. Temperance is patience, moderation, and the steady mixing of opposites into harmony. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-14",
+      "kind": "card",
+      "ref": "emperor",
+      "cardId": "emperor",
+      "hook": "Lá bài hôm nay: Hoàng Đế",
+      "lines": [
+        "Trật tự được đặt vào nỗ lực.",
+        "Từ khoá: cấu trúc · quyền lực · ổn định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Trật tự được đặt vào nỗ lực. Hoàng Đế là cấu trúc, ranh giới và sự dẫn dắt vững vàng — xây một thứ bền lâu bằng kỷ luật.",
+      "english": {
+        "hook": "Card of the day: The Emperor",
+        "caption": "Order brought to effort. The Emperor is structure, boundaries, and steady leadership — building something that lasts through discipline. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-15",
+      "kind": "card",
+      "ref": "seven-of-pentacles",
+      "cardId": "seven-of-pentacles",
+      "hook": "Lá bài hôm nay: Bảy Tiền",
+      "lines": [
+        "Dừng lại để cân xem công sức dài lâu đã lớn tới đâu, và tiếp theo là gì.",
+        "Từ khoá: kiên nhẫn · đánh giá lại · tầm nhìn dài",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Dừng lại để cân xem công sức dài lâu đã lớn tới đâu, và tiếp theo là gì.",
+      "english": {
+        "hook": "Card of the day: Seven of Pentacles",
+        "caption": "Pausing to weigh what your long labor has grown, and what comes next. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-16",
+      "kind": "card",
+      "ref": "page-of-wands",
+      "cardId": "page-of-wands",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Gậy",
+      "lines": [
+        "Một sứ giả háo hức của các ý tưởng, không yên vì muốn khám phá điều gì đó mới.",
+        "Từ khoá: cảm hứng · tò mò · tinh thần tự do",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một sứ giả háo hức của các ý tưởng, không yên vì muốn khám phá điều gì đó mới.",
+      "english": {
+        "hook": "Card of the day: Page of Wands",
+        "caption": "An eager messenger of ideas, restless to explore something new. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-17",
+      "kind": "card",
+      "ref": "page-of-swords",
+      "cardId": "page-of-swords",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Kiếm",
+      "lines": [
+        "Một trí tuệ không yên, hay quan sát, khát học hỏi và phanh phui.",
+        "Từ khoá: tò mò · cảnh giác · trí óc sắc",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một trí tuệ không yên, hay quan sát, khát học hỏi và phanh phui.",
+      "english": {
+        "hook": "Card of the day: Page of Swords",
+        "caption": "A restless, watchful intellect hungry to learn and uncover. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-18",
+      "kind": "card",
+      "ref": "moon",
+      "cardId": "moon",
+      "hook": "Lá bài hôm nay: Mặt Trăng",
+      "lines": [
+        "Không phải mọi thứ đều rõ như vẻ ngoài của nó.",
+        "Từ khoá: ảo ảnh · trực giác · bất định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Không phải mọi thứ đều rõ như vẻ ngoài của nó. Mặt Trăng bảo bạn đi thật cẩn thận qua vùng bất định và tin trực giác hơn tin bề mặt.",
+      "english": {
+        "hook": "Card of the day: The Moon",
+        "caption": "Not everything is as clear as it looks. The Moon asks you to move carefully through uncertainty and trust intuition over appearances. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-19",
+      "kind": "card",
+      "ref": "queen-of-swords",
+      "cardId": "queen-of-swords",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Kiếm",
+      "lines": [
+        "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+        "Từ khoá: sáng tỏ · thành thật · độc lập",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+      "english": {
+        "hook": "Card of the day: Queen of Swords",
+        "caption": "Clear-eyed and honest, seeing through to the truth without sentiment. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-20",
+      "kind": "card",
+      "ref": "knight-of-swords",
+      "cardId": "knight-of-swords",
+      "hook": "Lá bài hôm nay: Hiệp Sĩ Kiếm",
+      "lines": [
+        "Trí tuệ sắc và gan dạ lao thẳng tới đích, mặc kệ sự thận trọng.",
+        "Từ khoá: tham vọng · động lực · thẳng thắn",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Trí tuệ sắc và gan dạ lao thẳng tới đích, mặc kệ sự thận trọng.",
+      "english": {
+        "hook": "Card of the day: Knight of Swords",
+        "caption": "Fierce intellect and nerve charging toward a goal, caution be damned. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-21",
+      "kind": "card",
+      "ref": "hanged-man",
+      "cardId": "hanged-man",
+      "hook": "Lá bài hôm nay: Người Treo Ngược",
+      "lines": [
+        "Một quãng dừng làm đổi khung mọi thứ.",
+        "Từ khoá: buông xuôi · góc nhìn mới · tạm dừng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một quãng dừng làm đổi khung mọi thứ. Người Treo Ngược tìm ra tuệ giác bằng cách thôi kiểm soát và nhìn cùng một vấn đề từ một góc mới.",
+      "english": {
+        "hook": "Card of the day: The Hanged Man",
+        "caption": "A pause that reframes everything. The Hanged Man finds insight by surrendering control and seeing the same problem from a new angle. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-22",
+      "kind": "card",
+      "ref": "temperance",
+      "cardId": "temperance",
+      "hook": "Lá bài hôm nay: Tiết Độ",
+      "lines": [
+        "Hai thái cực được hòa thành thứ dùng được.",
+        "Từ khoá: cân bằng · chừng mực · kiên nhẫn",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Hai thái cực được hòa thành thứ dùng được. Tiết Độ là sự kiên nhẫn, chừng mực, và việc pha trộn đều tay những mặt đối lập thành hòa hợp.",
+      "english": {
+        "hook": "Card of the day: Temperance",
+        "caption": "Two extremes blended into something workable. Temperance is patience, moderation, and the steady mixing of opposites into harmony. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-23",
+      "kind": "card",
+      "ref": "fool",
+      "cardId": "fool",
+      "hook": "Lá bài hôm nay: Chàng Khờ",
+      "lines": [
+        "Một khởi đầu tinh khôi và một bước nhảy của lòng tin.",
+        "Từ khoá: khởi đầu mới · bộc phát · niềm tin",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một khởi đầu tinh khôi và một bước nhảy của lòng tin. Chàng Khờ bước tới với sự tin cậy rộng mở, không mang theo gánh nặng cũ, sẵn lòng bắt đầu mà không cần bản đồ.",
+      "english": {
+        "hook": "Card of the day: The Fool",
+        "caption": "A fresh start and a leap of faith. The Fool steps forward with open trust, unburdened by what came before, willing to begin without a map. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "card",
+      "ref": "chariot",
+      "cardId": "chariot",
+      "hook": "Lá bài hôm nay: Cỗ Xe",
+      "lines": [
+        "Đà tiến được giữ vững giữa những lực đối nghịch.",
+        "Từ khoá: ý chí · quyết tâm · làm chủ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Đà tiến được giữ vững giữa những lực đối nghịch. Cỗ Xe là động lực và khả năng tự chủ đưa bạn tới một đích mà bạn không chịu bỏ.",
+      "english": {
+        "hook": "Card of the day: The Chariot",
+        "caption": "Momentum held steady through opposing forces. The Chariot is drive and self-command carrying you toward a goal you refuse to abandon. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "card",
+      "ref": "king-of-cups",
+      "cardId": "king-of-cups",
+      "hook": "Lá bài hôm nay: Vua Cốc",
+      "lines": [
+        "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+        "Từ khoá: cân bằng cảm xúc · trắc ẩn · khéo léo",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+      "english": {
+        "hook": "Card of the day: King of Cups",
+        "caption": "Feeling deeply yet steady — mastery of the emotional currents. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-26",
+      "kind": "card",
+      "ref": "king-of-pentacles",
+      "cardId": "king-of-pentacles",
+      "hook": "Lá bài hôm nay: Vua Tiền",
+      "lines": [
+        "Sự thành thạo dư dả — một người chu cấp đáng tin, vững vàng trên những gì mình dựng.",
+        "Từ khoá: thịnh vượng · ổn định · chu cấp",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Sự thành thạo dư dả — một người chu cấp đáng tin, vững vàng trên những gì mình dựng.",
+      "english": {
+        "hook": "Card of the day: King of Pentacles",
+        "caption": "Abundant mastery — a reliable provider, secure in what they've built. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-27",
+      "kind": "card",
+      "ref": "knight-of-cups",
+      "cardId": "knight-of-cups",
+      "hook": "Lá bài hôm nay: Hiệp Sĩ Cốc",
+      "lines": [
+        "Một người mộng mơ tới cùng một lời đề nghị, dẫn lối bằng cảm xúc và lý tưởng.",
+        "Từ khoá: lãng mạn · quyến rũ · theo trái tim",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người mộng mơ tới cùng một lời đề nghị, dẫn lối bằng cảm xúc và lý tưởng.",
+      "english": {
+        "hook": "Card of the day: Knight of Cups",
+        "caption": "A dreamer arriving with an offer, led by feeling and ideals. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-28",
+      "kind": "card",
+      "ref": "five-of-pentacles",
+      "cardId": "five-of-pentacles",
+      "hook": "Lá bài hôm nay: Năm Tiền",
+      "lines": [
+        "Sự thiếu thốn vật chất, và cảm giác bị bỏ lại ngoài giá lạnh.",
+        "Từ khoá: gian khó · thiếu thốn · bất an",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Sự thiếu thốn vật chất, và cảm giác bị bỏ lại ngoài giá lạnh.",
+      "english": {
+        "hook": "Card of the day: Five of Pentacles",
+        "caption": "Material want, and the feeling of being left out in the cold. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-29",
+      "kind": "card",
+      "ref": "eight-of-cups",
+      "cardId": "eight-of-cups",
+      "hook": "Lá bài hôm nay: Tám Cốc",
+      "lines": [
+        "Bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn.",
+        "Từ khoá: rời đi · tìm ý nghĩa · vỡ mộng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn.",
+      "english": {
+        "hook": "Card of the day: Eight of Cups",
+        "caption": "Leaving behind what no longer fulfills you in search of something deeper. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-30",
+      "kind": "card",
+      "ref": "eight-of-cups",
+      "cardId": "eight-of-cups",
+      "hook": "Lá bài hôm nay: Tám Cốc",
+      "lines": [
+        "Bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn.",
+        "Từ khoá: rời đi · tìm ý nghĩa · vỡ mộng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn.",
+      "english": {
+        "hook": "Card of the day: Eight of Cups",
+        "caption": "Leaving behind what no longer fulfills you in search of something deeper. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-31",
+      "kind": "card",
+      "ref": "hanged-man",
+      "cardId": "hanged-man",
+      "hook": "Lá bài hôm nay: Người Treo Ngược",
+      "lines": [
+        "Một quãng dừng làm đổi khung mọi thứ.",
+        "Từ khoá: buông xuôi · góc nhìn mới · tạm dừng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một quãng dừng làm đổi khung mọi thứ. Người Treo Ngược tìm ra tuệ giác bằng cách thôi kiểm soát và nhìn cùng một vấn đề từ một góc mới.",
+      "english": {
+        "hook": "Card of the day: The Hanged Man",
+        "caption": "A pause that reframes everything. The Hanged Man finds insight by surrendering control and seeing the same problem from a new angle. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-01",
+      "kind": "card",
+      "ref": "nine-of-swords",
+      "cardId": "nine-of-swords",
+      "hook": "Lá bài hôm nay: Chín Kiếm",
+      "lines": [
+        "Cái đầu giữa đêm phóng đại nỗi sợ vượt xa sự thật.",
+        "Từ khoá: lo âu · sợ hãi · mất ngủ vì lo",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Cái đầu giữa đêm phóng đại nỗi sợ vượt xa sự thật.",
+      "english": {
+        "hook": "Card of the day: Nine of Swords",
+        "caption": "The dark-hour mind magnifying fears far past the facts. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "card",
+      "ref": "emperor",
+      "cardId": "emperor",
+      "hook": "Lá bài hôm nay: Hoàng Đế",
+      "lines": [
+        "Trật tự được đặt vào nỗ lực.",
+        "Từ khoá: cấu trúc · quyền lực · ổn định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Trật tự được đặt vào nỗ lực. Hoàng Đế là cấu trúc, ranh giới và sự dẫn dắt vững vàng — xây một thứ bền lâu bằng kỷ luật.",
+      "english": {
+        "hook": "Card of the day: The Emperor",
+        "caption": "Order brought to effort. The Emperor is structure, boundaries, and steady leadership — building something that lasts through discipline. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "card",
+      "ref": "knight-of-cups",
+      "cardId": "knight-of-cups",
+      "hook": "Lá bài hôm nay: Hiệp Sĩ Cốc",
+      "lines": [
+        "Một người mộng mơ tới cùng một lời đề nghị, dẫn lối bằng cảm xúc và lý tưởng.",
+        "Từ khoá: lãng mạn · quyến rũ · theo trái tim",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người mộng mơ tới cùng một lời đề nghị, dẫn lối bằng cảm xúc và lý tưởng.",
+      "english": {
+        "hook": "Card of the day: Knight of Cups",
+        "caption": "A dreamer arriving with an offer, led by feeling and ideals. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "card",
+      "ref": "king-of-swords",
+      "cardId": "king-of-swords",
+      "hook": "Lá bài hôm nay: Vua Kiếm",
+      "lines": [
+        "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+        "Từ khoá: uy quyền · sự thật · trí tuệ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+      "english": {
+        "hook": "Card of the day: King of Swords",
+        "caption": "The clear judgment of a principled mind — truth and fair authority. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "card",
+      "ref": "three-of-wands",
+      "cardId": "three-of-wands",
+      "hook": "Lá bài hôm nay: Ba Gậy",
+      "lines": [
+        "Những nỗ lực đầu đã chuyển động; bạn nhìn ra xa với sự tự tin khi kế hoạch bắt đầu chạy.",
+        "Từ khoá: mở rộng · tiên liệu · tiến triển",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Những nỗ lực đầu đã chuyển động; bạn nhìn ra xa với sự tự tin khi kế hoạch bắt đầu chạy.",
+      "english": {
+        "hook": "Card of the day: Three of Wands",
+        "caption": "Early efforts set in motion; you look out with confidence as your plans begin to move. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-07",
+      "kind": "card",
+      "ref": "empress",
+      "cardId": "empress",
+      "hook": "Lá bài hôm nay: Nữ Hoàng",
+      "lines": [
+        "Điều bạn chăm bẵm đã sẵn sàng đơm hoa.",
+        "Từ khoá: sung túc · nuôi dưỡng · sáng tạo",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Điều bạn chăm bẵm đã sẵn sàng đơm hoa. Nữ Hoàng là sức sáng tạo màu mỡ, sự chăm sóc, và việc những gì bạn nuôi dưỡng tự nhiên bung nở.",
+      "english": {
+        "hook": "Card of the day: The Empress",
+        "caption": "Something you have tended is ready to flourish. The Empress is fertile creativity, care, and the natural unfolding of what you've nourished. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-08",
+      "kind": "card",
+      "ref": "hierophant",
+      "cardId": "hierophant",
+      "hook": "Lá bài hôm nay: Giáo Hoàng",
+      "lines": [
+        "Một người thầy, một truyền thống, hay một lối đi đã được thiết lập, đáng để học.",
+        "Từ khoá: truyền thống · chỉ dẫn · học hỏi",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người thầy, một truyền thống, hay một lối đi đã được thiết lập, đáng để học. Giáo Hoàng trân trọng minh triết đã được kiểm chứng và giá trị của niềm tin chung.",
+      "english": {
+        "hook": "Card of the day: The Hierophant",
+        "caption": "A teacher, tradition, or established path worth learning from. The Hierophant honors proven wisdom and the value of shared belief. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-09",
+      "kind": "card",
+      "ref": "hermit",
+      "cardId": "hermit",
+      "hook": "Lá bài hôm nay: Ẩn Sĩ",
+      "lines": [
+        "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường.",
+        "Từ khoá: nội quan · cô tịch · chỉ dẫn từ bên trong",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường. Câu trả lời đến từ bên trong, không phải từ đám đông.",
+      "english": {
+        "hook": "Card of the day: The Hermit",
+        "caption": "A season to step back, seek solitude, and let your own inner light guide you. Answers come from within, not from the crowd. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-10",
+      "kind": "card",
+      "ref": "king-of-swords",
+      "cardId": "king-of-swords",
+      "hook": "Lá bài hôm nay: Vua Kiếm",
+      "lines": [
+        "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+        "Từ khoá: uy quyền · sự thật · trí tuệ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+      "english": {
+        "hook": "Card of the day: King of Swords",
+        "caption": "The clear judgment of a principled mind — truth and fair authority. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-11",
+      "kind": "card",
+      "ref": "world",
+      "cardId": "world",
+      "hook": "Lá bài hôm nay: Thế Giới",
+      "lines": [
+        "Một chu kỳ đã trọn và nguyên vẹn.",
+        "Từ khoá: hoàn tất · trọn vẹn · thành tựu",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chu kỳ đã trọn và nguyên vẹn. Thế Giới là sự viên mãn, sự hợp nhất, và cảm giác thỏa lòng khi tới được nơi mình đã cố công đi tới.",
+      "english": {
+        "hook": "Card of the day: The World",
+        "caption": "A cycle completed and whole. The World is fulfillment, integration, and the satisfaction of arriving somewhere you worked to reach. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "card",
+      "ref": "moon",
+      "cardId": "moon",
+      "hook": "Lá bài hôm nay: Mặt Trăng",
+      "lines": [
+        "Không phải mọi thứ đều rõ như vẻ ngoài của nó.",
+        "Từ khoá: ảo ảnh · trực giác · bất định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Không phải mọi thứ đều rõ như vẻ ngoài của nó. Mặt Trăng bảo bạn đi thật cẩn thận qua vùng bất định và tin trực giác hơn tin bề mặt.",
+      "english": {
+        "hook": "Card of the day: The Moon",
+        "caption": "Not everything is as clear as it looks. The Moon asks you to move carefully through uncertainty and trust intuition over appearances. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-13",
+      "kind": "card",
+      "ref": "six-of-wands",
+      "cardId": "six-of-wands",
+      "hook": "Lá bài hôm nay: Sáu Gậy",
+      "lines": [
+        "Sự thừa nhận công khai và một chiến thắng xứng đáng, phi ngựa giữa thanh thiên bạch nhật.",
+        "Từ khoá: chiến thắng · được công nhận · thành công",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Sự thừa nhận công khai và một chiến thắng xứng đáng, phi ngựa giữa thanh thiên bạch nhật.",
+      "english": {
+        "hook": "Card of the day: Six of Wands",
+        "caption": "Public acknowledgment and a well-earned win, ridden out in the open. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-14",
+      "kind": "card",
+      "ref": "death",
+      "cardId": "death",
+      "hook": "Lá bài hôm nay: Cái Chết",
+      "lines": [
+        "Một chương khép lại để chương sau có chỗ bắt đầu.",
+        "Từ khoá: kết thúc · chuyển hóa · chuyển tiếp",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chương khép lại để chương sau có chỗ bắt đầu. Cái Chết là sự chuyển hóa — hiếm khi theo nghĩa đen, luôn là dọn chỗ cho sự làm mới.",
+      "english": {
+        "hook": "Card of the day: Death",
+        "caption": "One chapter closing so the next has room to begin. Death is transformation — rarely literal, always about clearing space for renewal. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-15",
+      "kind": "card",
+      "ref": "hermit",
+      "cardId": "hermit",
+      "hook": "Lá bài hôm nay: Ẩn Sĩ",
+      "lines": [
+        "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường.",
+        "Từ khoá: nội quan · cô tịch · chỉ dẫn từ bên trong",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường. Câu trả lời đến từ bên trong, không phải từ đám đông.",
+      "english": {
+        "hook": "Card of the day: The Hermit",
+        "caption": "A season to step back, seek solitude, and let your own inner light guide you. Answers come from within, not from the crowd. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "card",
+      "ref": "eight-of-wands",
+      "cardId": "eight-of-wands",
+      "hook": "Lá bài hôm nay: Tám Gậy",
+      "lines": [
+        "Biến cố và tin tức ập tới nhanh; những gì kẹt lâu bỗng chuyển động.",
+        "Từ khoá: tốc độ · chuyển động · đổi thay nhanh",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Biến cố và tin tức ập tới nhanh; những gì kẹt lâu bỗng chuyển động.",
+      "english": {
+        "hook": "Card of the day: Eight of Wands",
+        "caption": "Events and news arriving quickly; things long stalled suddenly in motion. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-17",
+      "kind": "card",
+      "ref": "page-of-cups",
+      "cardId": "page-of-cups",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Cốc",
+      "lines": [
+        "Một thông điệp nhẹ nhàng, giàu tưởng tượng, và một trái tim còn biết ngạc nhiên.",
+        "Từ khoá: sáng tạo · trực giác · thông điệp dịu dàng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một thông điệp nhẹ nhàng, giàu tưởng tượng, và một trái tim còn biết ngạc nhiên.",
+      "english": {
+        "hook": "Card of the day: Page of Cups",
+        "caption": "A gentle, imaginative message, and a heart open to wonder. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-18",
+      "kind": "card",
+      "ref": "king-of-cups",
+      "cardId": "king-of-cups",
+      "hook": "Lá bài hôm nay: Vua Cốc",
+      "lines": [
+        "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+        "Từ khoá: cân bằng cảm xúc · trắc ẩn · khéo léo",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+      "english": {
+        "hook": "Card of the day: King of Cups",
+        "caption": "Feeling deeply yet steady — mastery of the emotional currents. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "card",
+      "ref": "strength",
+      "cardId": "strength",
+      "hook": "Lá bài hôm nay: Sức Mạnh",
+      "lines": [
+        "Thứ sức mạnh lặng lẽ thuần phục bằng kiên nhẫn thay vì bằng vũ lực.",
+        "Từ khoá: can đảm · kiên nhẫn · dịu dàng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Thứ sức mạnh lặng lẽ thuần phục bằng kiên nhẫn thay vì bằng vũ lực. Can đảm thật ở đây là điềm tĩnh, trắc ẩn và vững vàng dưới áp lực.",
+      "english": {
+        "hook": "Card of the day: Strength",
+        "caption": "The quiet strength that tames through patience rather than force. Real courage here is calm, compassionate, and steady under pressure. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-20",
+      "kind": "card",
+      "ref": "two-of-swords",
+      "cardId": "two-of-swords",
+      "hook": "Lá bài hôm nay: Hai Kiếm",
+      "lines": [
+        "Bịt mắt trước ngõ cụt, không chịu nhìn để khỏi phải chọn.",
+        "Từ khoá: bế tắc · lựa chọn khó · né tránh",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bịt mắt trước ngõ cụt, không chịu nhìn để khỏi phải chọn.",
+      "english": {
+        "hook": "Card of the day: Two of Swords",
+        "caption": "Blindfolded at an impasse, refusing to see in order to avoid deciding. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-21",
+      "kind": "card",
+      "ref": "death",
+      "cardId": "death",
+      "hook": "Lá bài hôm nay: Cái Chết",
+      "lines": [
+        "Một chương khép lại để chương sau có chỗ bắt đầu.",
+        "Từ khoá: kết thúc · chuyển hóa · chuyển tiếp",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chương khép lại để chương sau có chỗ bắt đầu. Cái Chết là sự chuyển hóa — hiếm khi theo nghĩa đen, luôn là dọn chỗ cho sự làm mới.",
+      "english": {
+        "hook": "Card of the day: Death",
+        "caption": "One chapter closing so the next has room to begin. Death is transformation — rarely literal, always about clearing space for renewal. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-22",
+      "kind": "card",
+      "ref": "queen-of-wands",
+      "cardId": "queen-of-wands",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Gậy",
+      "lines": [
+        "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+        "Từ khoá: tự tin · ấm áp · sức hút",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+      "english": {
+        "hook": "Card of the day: Queen of Wands",
+        "caption": "Vibrant and self-assured, drawing others in through natural warmth and courage. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-23",
+      "kind": "card",
+      "ref": "six-of-cups",
+      "cardId": "six-of-cups",
+      "hook": "Lá bài hôm nay: Sáu Cốc",
+      "lines": [
+        "Vị ngọt từ quá khứ — ký ức cũ, những cuộc hội ngộ, hay một lòng hào phóng giản dị.",
+        "Từ khoá: hoài niệm · hồn nhiên · hội ngộ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Vị ngọt từ quá khứ — ký ức cũ, những cuộc hội ngộ, hay một lòng hào phóng giản dị.",
+      "english": {
+        "hook": "Card of the day: Six of Cups",
+        "caption": "Sweetness from the past — old memories, reunions, or simple generosity. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "card",
+      "ref": "knight-of-swords",
+      "cardId": "knight-of-swords",
+      "hook": "Lá bài hôm nay: Hiệp Sĩ Kiếm",
+      "lines": [
+        "Trí tuệ sắc và gan dạ lao thẳng tới đích, mặc kệ sự thận trọng.",
+        "Từ khoá: tham vọng · động lực · thẳng thắn",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Trí tuệ sắc và gan dạ lao thẳng tới đích, mặc kệ sự thận trọng.",
+      "english": {
+        "hook": "Card of the day: Knight of Swords",
+        "caption": "Fierce intellect and nerve charging toward a goal, caution be damned. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-25",
+      "kind": "card",
+      "ref": "five-of-swords",
+      "cardId": "five-of-swords",
+      "hook": "Lá bài hôm nay: Năm Kiếm",
+      "lines": [
+        "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+        "Từ khoá: xung đột · chiến thắng rỗng · thất bại",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+      "english": {
+        "hook": "Card of the day: Five of Swords",
+        "caption": "A win that costs more than it gives, leaving resentment behind. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-26",
+      "kind": "card",
+      "ref": "three-of-cups",
+      "cardId": "three-of-cups",
+      "hook": "Lá bài hôm nay: Ba Cốc",
+      "lines": [
+        "Bạn bè tụ họp trong hân hoan — niềm vui chung và cảm giác thuộc về.",
+        "Từ khoá: tình bạn · lễ mừng · cộng đồng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bạn bè tụ họp trong hân hoan — niềm vui chung và cảm giác thuộc về.",
+      "english": {
+        "hook": "Card of the day: Three of Cups",
+        "caption": "Friends gathered in gladness — shared joy and belonging. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-27",
+      "kind": "card",
+      "ref": "page-of-pentacles",
+      "cardId": "page-of-pentacles",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Tiền",
+      "lines": [
+        "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+        "Từ khoá: tham vọng · học hành · cơ hội mới",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+      "english": {
+        "hook": "Card of the day: Page of Pentacles",
+        "caption": "A studious beginner laying practical plans for something real. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-28",
+      "kind": "card",
+      "ref": "page-of-pentacles",
+      "cardId": "page-of-pentacles",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Tiền",
+      "lines": [
+        "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+        "Từ khoá: tham vọng · học hành · cơ hội mới",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+      "english": {
+        "hook": "Card of the day: Page of Pentacles",
+        "caption": "A studious beginner laying practical plans for something real. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-29",
+      "kind": "card",
+      "ref": "page-of-pentacles",
+      "cardId": "page-of-pentacles",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Tiền",
+      "lines": [
+        "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+        "Từ khoá: tham vọng · học hành · cơ hội mới",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+      "english": {
+        "hook": "Card of the day: Page of Pentacles",
+        "caption": "A studious beginner laying practical plans for something real. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-30",
+      "kind": "card",
+      "ref": "king-of-swords",
+      "cardId": "king-of-swords",
+      "hook": "Lá bài hôm nay: Vua Kiếm",
+      "lines": [
+        "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+        "Từ khoá: uy quyền · sự thật · trí tuệ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+      "english": {
+        "hook": "Card of the day: King of Swords",
+        "caption": "The clear judgment of a principled mind — truth and fair authority. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-01",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-02",
+      "kind": "card",
+      "ref": "three-of-swords",
+      "cardId": "three-of-swords",
+      "hook": "Lá bài hôm nay: Ba Kiếm",
+      "lines": [
+        "Nỗi đau sạch và xuyên thấu của trái tim tan vỡ — buồn bã mà cũng làm mọi thứ sáng ra.",
+        "Từ khoá: trái tim tan vỡ · sầu muộn · sự thật đau",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Nỗi đau sạch và xuyên thấu của trái tim tan vỡ — buồn bã mà cũng làm mọi thứ sáng ra.",
+      "english": {
+        "hook": "Card of the day: Three of Swords",
+        "caption": "The clean, piercing pain of heartbreak — sorrow that also clarifies. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-03",
+      "kind": "card",
+      "ref": "hermit",
+      "cardId": "hermit",
+      "hook": "Lá bài hôm nay: Ẩn Sĩ",
+      "lines": [
+        "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường.",
+        "Từ khoá: nội quan · cô tịch · chỉ dẫn từ bên trong",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường. Câu trả lời đến từ bên trong, không phải từ đám đông.",
+      "english": {
+        "hook": "Card of the day: The Hermit",
+        "caption": "A season to step back, seek solitude, and let your own inner light guide you. Answers come from within, not from the crowd. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-04",
+      "kind": "card",
+      "ref": "temperance",
+      "cardId": "temperance",
+      "hook": "Lá bài hôm nay: Tiết Độ",
+      "lines": [
+        "Hai thái cực được hòa thành thứ dùng được.",
+        "Từ khoá: cân bằng · chừng mực · kiên nhẫn",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Hai thái cực được hòa thành thứ dùng được. Tiết Độ là sự kiên nhẫn, chừng mực, và việc pha trộn đều tay những mặt đối lập thành hòa hợp.",
+      "english": {
+        "hook": "Card of the day: Temperance",
+        "caption": "Two extremes blended into something workable. Temperance is patience, moderation, and the steady mixing of opposites into harmony. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-05",
+      "kind": "card",
+      "ref": "star",
+      "cardId": "star",
+      "hook": "Lá bài hôm nay: Ngôi Sao",
+      "lines": [
+        "Hy vọng lặng lẽ trở lại sau một điều khó nhọc.",
+        "Từ khoá: hy vọng · hồi sinh · an nhiên",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Hy vọng lặng lẽ trở lại sau một điều khó nhọc. Ngôi Sao là sự chữa lành, niềm tin, và cảm giác bình thản rằng phần tệ nhất đã qua.",
+      "english": {
+        "hook": "Card of the day: The Star",
+        "caption": "Quiet hope returning after something hard. The Star is healing, faith, and the calm sense that the worst has passed. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-06",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-07",
+      "kind": "card",
+      "ref": "nine-of-cups",
+      "cardId": "nine-of-cups",
+      "hook": "Lá bài hôm nay: Chín Cốc",
+      "lines": [
+        "Lá bài của ước nguyện — sự thỏa mãn về cảm xúc và niềm mãn nguyện lặng lẽ, xứng đáng.",
+        "Từ khoá: mãn nguyện · thỏa lòng · ước nguyện thành",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Lá bài của ước nguyện — sự thỏa mãn về cảm xúc và niềm mãn nguyện lặng lẽ, xứng đáng.",
+      "english": {
+        "hook": "Card of the day: Nine of Cups",
+        "caption": "The wish card — emotional satisfaction and quiet, earned contentment. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-08",
+      "kind": "card",
+      "ref": "judgement",
+      "cardId": "judgement",
+      "hook": "Lá bài hôm nay: Phán Xét",
+      "lines": [
+        "Một cuộc thanh toán dọn đường đi tới.",
+        "Từ khoá: thanh toán · thức tỉnh · làm mới",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một cuộc thanh toán dọn đường đi tới. Phán Xét là khoảnh khắc tự nhìn lại mình thật thà và tiếng gọi vươn lên thành một điều mới.",
+      "english": {
+        "hook": "Card of the day: Judgement",
+        "caption": "A reckoning that clears the way forward. Judgement is a moment of honest self-assessment and the call to rise into something new. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-09",
+      "kind": "card",
+      "ref": "queen-of-pentacles",
+      "cardId": "queen-of-pentacles",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Tiền",
+      "lines": [
+        "Vững chãi và rộng lượng, chăm lo cho nhà, cho việc và cho người bằng hơi ấm.",
+        "Từ khoá: nuôi dưỡng · thiết thực · sung túc",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Vững chãi và rộng lượng, chăm lo cho nhà, cho việc và cho người bằng hơi ấm.",
+      "english": {
+        "hook": "Card of the day: Queen of Pentacles",
+        "caption": "Grounded and generous, tending home, work, and others with warmth. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-10",
+      "kind": "card",
+      "ref": "five-of-cups",
+      "cardId": "five-of-cups",
+      "hook": "Lá bài hôm nay: Năm Cốc",
+      "lines": [
+        "Dán mắt vào thứ đã đổ, chưa chịu quay sang những chiếc cốc vẫn còn đứng.",
+        "Từ khoá: đau buồn · mất mát · tiếc nuối",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Dán mắt vào thứ đã đổ, chưa chịu quay sang những chiếc cốc vẫn còn đứng.",
+      "english": {
+        "hook": "Card of the day: Five of Cups",
+        "caption": "Fixed on what has spilled, not yet turning to the cups still standing. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-11",
+      "kind": "card",
+      "ref": "four-of-wands",
+      "cardId": "four-of-wands",
+      "hook": "Lá bài hôm nay: Bốn Gậy",
+      "lines": [
+        "Một ngưỡng cửa vui — sự ổn định, cộng đồng, và một khoảnh khắc đáng đánh dấu.",
+        "Từ khoá: lễ mừng · hòa hợp · trở về nhà",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một ngưỡng cửa vui — sự ổn định, cộng đồng, và một khoảnh khắc đáng đánh dấu.",
+      "english": {
+        "hook": "Card of the day: Four of Wands",
+        "caption": "A joyful threshold — stability, community, and a moment worth marking. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-12",
+      "kind": "card",
+      "ref": "devil",
+      "cardId": "devil",
+      "hook": "Lá bài hôm nay: Ác Quỷ",
+      "lines": [
+        "Một thói quen, ràng buộc hay nỗi sợ đáng được gọi tên thật thà.",
+        "Từ khoá: ràng buộc · cám dỗ · bóng tối",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một thói quen, ràng buộc hay nỗi sợ đáng được gọi tên thật thà. Ác Quỷ cho thấy những sợi xích ta nhầm là chỗ dựa — và nhắc rằng ổ khóa ấy chính bạn mở được.",
+      "english": {
+        "hook": "Card of the day: The Devil",
+        "caption": "A habit, attachment, or fear worth naming honestly. The Devil shows the chains we mistake for security — and reminds you the lock is one you can open. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-13",
+      "kind": "card",
+      "ref": "two-of-pentacles",
+      "cardId": "two-of-pentacles",
+      "hook": "Lá bài hôm nay: Hai Tiền",
+      "lines": [
+        "Giữ nhiều đòi hỏi cùng chuyển động, cân bằng một cách nhanh nhẹn.",
+        "Từ khoá: cân bằng · linh hoạt · tung hứng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Giữ nhiều đòi hỏi cùng chuyển động, cân bằng một cách nhanh nhẹn.",
+      "english": {
+        "hook": "Card of the day: Two of Pentacles",
+        "caption": "Keeping several demands in motion, balancing with agility. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-14",
+      "kind": "card",
+      "ref": "king-of-swords",
+      "cardId": "king-of-swords",
+      "hook": "Lá bài hôm nay: Vua Kiếm",
+      "lines": [
+        "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+        "Từ khoá: uy quyền · sự thật · trí tuệ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+      "english": {
+        "hook": "Card of the day: King of Swords",
+        "caption": "The clear judgment of a principled mind — truth and fair authority. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-15",
+      "kind": "card",
+      "ref": "tower",
+      "cardId": "tower",
+      "hook": "Lá bài hôm nay: Tòa Tháp",
+      "lines": [
+        "Một sự thật hay biến động bất ngờ quét sạch những gì dựng trên nền móng giả.",
+        "Từ khoá: chấn động · đổi thay đột ngột · mặc khải",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một sự thật hay biến động bất ngờ quét sạch những gì dựng trên nền móng giả. Tòa Tháp gây đổ vỡ, nhưng nó cho thấy thứ đáng lẽ phải sụp.",
+      "english": {
+        "hook": "Card of the day: The Tower",
+        "caption": "A sudden truth or upheaval that clears away what was built on a false foundation. The Tower is disruptive, but it reveals what needed to fall. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-16",
+      "kind": "card",
+      "ref": "moon",
+      "cardId": "moon",
+      "hook": "Lá bài hôm nay: Mặt Trăng",
+      "lines": [
+        "Không phải mọi thứ đều rõ như vẻ ngoài của nó.",
+        "Từ khoá: ảo ảnh · trực giác · bất định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Không phải mọi thứ đều rõ như vẻ ngoài của nó. Mặt Trăng bảo bạn đi thật cẩn thận qua vùng bất định và tin trực giác hơn tin bề mặt.",
+      "english": {
+        "hook": "Card of the day: The Moon",
+        "caption": "Not everything is as clear as it looks. The Moon asks you to move carefully through uncertainty and trust intuition over appearances. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-17",
+      "kind": "card",
+      "ref": "ten-of-swords",
+      "cardId": "ten-of-swords",
+      "hook": "Lá bài hôm nay: Mười Kiếm",
+      "lines": [
+        "Một kết thúc nặng nề và dứt khoát — điểm thấp nhất mà từ đó chỉ còn đường đi lên.",
+        "Từ khoá: kết thúc đau đớn · chạm đáy · phản bội",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một kết thúc nặng nề và dứt khoát — điểm thấp nhất mà từ đó chỉ còn đường đi lên.",
+      "english": {
+        "hook": "Card of the day: Ten of Swords",
+        "caption": "A hard, final ending — the low point that can only turn upward. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-18",
+      "kind": "card",
+      "ref": "queen-of-swords",
+      "cardId": "queen-of-swords",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Kiếm",
+      "lines": [
+        "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+        "Từ khoá: sáng tỏ · thành thật · độc lập",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+      "english": {
+        "hook": "Card of the day: Queen of Swords",
+        "caption": "Clear-eyed and honest, seeing through to the truth without sentiment. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-19",
+      "kind": "card",
+      "ref": "hanged-man",
+      "cardId": "hanged-man",
+      "hook": "Lá bài hôm nay: Người Treo Ngược",
+      "lines": [
+        "Một quãng dừng làm đổi khung mọi thứ.",
+        "Từ khoá: buông xuôi · góc nhìn mới · tạm dừng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một quãng dừng làm đổi khung mọi thứ. Người Treo Ngược tìm ra tuệ giác bằng cách thôi kiểm soát và nhìn cùng một vấn đề từ một góc mới.",
+      "english": {
+        "hook": "Card of the day: The Hanged Man",
+        "caption": "A pause that reframes everything. The Hanged Man finds insight by surrendering control and seeing the same problem from a new angle. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-20",
+      "kind": "card",
+      "ref": "three-of-pentacles",
+      "cardId": "three-of-pentacles",
+      "hook": "Lá bài hôm nay: Ba Tiền",
+      "lines": [
+        "Công việc lành nghề được ghi nhận — cùng nhau xây một thứ cho tử tế.",
+        "Từ khoá: hợp tác · tay nghề · làm việc nhóm",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Công việc lành nghề được ghi nhận — cùng nhau xây một thứ cho tử tế.",
+      "english": {
+        "hook": "Card of the day: Three of Pentacles",
+        "caption": "Skilled work recognized — building something well, together. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-21",
+      "kind": "card",
+      "ref": "queen-of-wands",
+      "cardId": "queen-of-wands",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Gậy",
+      "lines": [
+        "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+        "Từ khoá: tự tin · ấm áp · sức hút",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+      "english": {
+        "hook": "Card of the day: Queen of Wands",
+        "caption": "Vibrant and self-assured, drawing others in through natural warmth and courage. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-22",
+      "kind": "card",
+      "ref": "ten-of-pentacles",
+      "cardId": "ten-of-pentacles",
+      "hook": "Lá bài hôm nay: Mười Tiền",
+      "lines": [
+        "Của cải bền và gốc rễ — sự an ổn trải qua nhiều thế hệ.",
+        "Từ khoá: của cải · di sản · gia đình",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Của cải bền và gốc rễ — sự an ổn trải qua nhiều thế hệ.",
+      "english": {
+        "hook": "Card of the day: Ten of Pentacles",
+        "caption": "Enduring wealth and roots — security that spans generations. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-23",
+      "kind": "card",
+      "ref": "devil",
+      "cardId": "devil",
+      "hook": "Lá bài hôm nay: Ác Quỷ",
+      "lines": [
+        "Một thói quen, ràng buộc hay nỗi sợ đáng được gọi tên thật thà.",
+        "Từ khoá: ràng buộc · cám dỗ · bóng tối",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một thói quen, ràng buộc hay nỗi sợ đáng được gọi tên thật thà. Ác Quỷ cho thấy những sợi xích ta nhầm là chỗ dựa — và nhắc rằng ổ khóa ấy chính bạn mở được.",
+      "english": {
+        "hook": "Card of the day: The Devil",
+        "caption": "A habit, attachment, or fear worth naming honestly. The Devil shows the chains we mistake for security — and reminds you the lock is one you can open. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-24",
+      "kind": "card",
+      "ref": "four-of-swords",
+      "cardId": "four-of-swords",
+      "hook": "Lá bài hôm nay: Bốn Kiếm",
+      "lines": [
+        "Một quãng dừng có chủ ý để lành lại và gom sức trước hiệp sau.",
+        "Từ khoá: nghỉ ngơi · hồi phục · trầm tư",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một quãng dừng có chủ ý để lành lại và gom sức trước hiệp sau.",
+      "english": {
+        "hook": "Card of the day: Four of Swords",
+        "caption": "A deliberate pause to heal and gather strength before the next round. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-25",
+      "kind": "card",
+      "ref": "five-of-swords",
+      "cardId": "five-of-swords",
+      "hook": "Lá bài hôm nay: Năm Kiếm",
+      "lines": [
+        "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+        "Từ khoá: xung đột · chiến thắng rỗng · thất bại",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+      "english": {
+        "hook": "Card of the day: Five of Swords",
+        "caption": "A win that costs more than it gives, leaving resentment behind. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-26",
+      "kind": "card",
+      "ref": "moon",
+      "cardId": "moon",
+      "hook": "Lá bài hôm nay: Mặt Trăng",
+      "lines": [
+        "Không phải mọi thứ đều rõ như vẻ ngoài của nó.",
+        "Từ khoá: ảo ảnh · trực giác · bất định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Không phải mọi thứ đều rõ như vẻ ngoài của nó. Mặt Trăng bảo bạn đi thật cẩn thận qua vùng bất định và tin trực giác hơn tin bề mặt.",
+      "english": {
+        "hook": "Card of the day: The Moon",
+        "caption": "Not everything is as clear as it looks. The Moon asks you to move carefully through uncertainty and trust intuition over appearances. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-27",
+      "kind": "card",
+      "ref": "ace-of-swords",
+      "cardId": "ace-of-swords",
+      "hook": "Lá bài hôm nay: Át Kiếm",
+      "lines": [
+        "Một sự sáng tỏ đột ngột cắt xuyên qua hoang mang — sự thật được nhìn thấy sắc nét.",
+        "Từ khoá: sáng tỏ · sự thật · bừng ngộ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một sự sáng tỏ đột ngột cắt xuyên qua hoang mang — sự thật được nhìn thấy sắc nét.",
+      "english": {
+        "hook": "Card of the day: Ace of Swords",
+        "caption": "A sudden clarity that cuts through confusion — truth seen sharply. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-28",
+      "kind": "card",
+      "ref": "magician",
+      "cardId": "magician",
+      "hook": "Lá bài hôm nay: Nhà Ảo Thuật",
+      "lines": [
+        "Bạn đã nắm sẵn mọi công cụ mình cần.",
+        "Từ khoá: hiện thực hóa · ý chí · tháo vát",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bạn đã nắm sẵn mọi công cụ mình cần. Nhà Ảo Thuật là năng lực biến ý định thành hành động và làm cho một điều trở thành thật bằng ý chí tập trung.",
+      "english": {
+        "hook": "Card of the day: The Magician",
+        "caption": "You already hold every tool you need. The Magician is the power to turn intention into action and make something real through focused will. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-29",
+      "kind": "card",
+      "ref": "page-of-cups",
+      "cardId": "page-of-cups",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Cốc",
+      "lines": [
+        "Một thông điệp nhẹ nhàng, giàu tưởng tượng, và một trái tim còn biết ngạc nhiên.",
+        "Từ khoá: sáng tạo · trực giác · thông điệp dịu dàng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một thông điệp nhẹ nhàng, giàu tưởng tượng, và một trái tim còn biết ngạc nhiên.",
+      "english": {
+        "hook": "Card of the day: Page of Cups",
+        "caption": "A gentle, imaginative message, and a heart open to wonder. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-30",
+      "kind": "card",
+      "ref": "ten-of-swords",
+      "cardId": "ten-of-swords",
+      "hook": "Lá bài hôm nay: Mười Kiếm",
+      "lines": [
+        "Một kết thúc nặng nề và dứt khoát — điểm thấp nhất mà từ đó chỉ còn đường đi lên.",
+        "Từ khoá: kết thúc đau đớn · chạm đáy · phản bội",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một kết thúc nặng nề và dứt khoát — điểm thấp nhất mà từ đó chỉ còn đường đi lên.",
+      "english": {
+        "hook": "Card of the day: Ten of Swords",
+        "caption": "A hard, final ending — the low point that can only turn upward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-31",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-01",
+      "kind": "card",
+      "ref": "tower",
+      "cardId": "tower",
+      "hook": "Lá bài hôm nay: Tòa Tháp",
+      "lines": [
+        "Một sự thật hay biến động bất ngờ quét sạch những gì dựng trên nền móng giả.",
+        "Từ khoá: chấn động · đổi thay đột ngột · mặc khải",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một sự thật hay biến động bất ngờ quét sạch những gì dựng trên nền móng giả. Tòa Tháp gây đổ vỡ, nhưng nó cho thấy thứ đáng lẽ phải sụp.",
+      "english": {
+        "hook": "Card of the day: The Tower",
+        "caption": "A sudden truth or upheaval that clears away what was built on a false foundation. The Tower is disruptive, but it reveals what needed to fall. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-02",
+      "kind": "card",
+      "ref": "judgement",
+      "cardId": "judgement",
+      "hook": "Lá bài hôm nay: Phán Xét",
+      "lines": [
+        "Một cuộc thanh toán dọn đường đi tới.",
+        "Từ khoá: thanh toán · thức tỉnh · làm mới",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một cuộc thanh toán dọn đường đi tới. Phán Xét là khoảnh khắc tự nhìn lại mình thật thà và tiếng gọi vươn lên thành một điều mới.",
+      "english": {
+        "hook": "Card of the day: Judgement",
+        "caption": "A reckoning that clears the way forward. Judgement is a moment of honest self-assessment and the call to rise into something new. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-03",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-04",
+      "kind": "card",
+      "ref": "seven-of-wands",
+      "cardId": "seven-of-wands",
+      "hook": "Lá bài hôm nay: Bảy Gậy",
+      "lines": [
+        "Giữ một vị thế khó nhọc mới có được trước những kẻ muốn giành lấy nó.",
+        "Từ khoá: phòng thủ · bền chí · giữ vững lập trường",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Giữ một vị thế khó nhọc mới có được trước những kẻ muốn giành lấy nó.",
+      "english": {
+        "hook": "Card of the day: Seven of Wands",
+        "caption": "Holding a hard-won position against challengers who want what you have. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-05",
+      "kind": "card",
+      "ref": "six-of-pentacles",
+      "cardId": "six-of-pentacles",
+      "hook": "Lá bài hôm nay: Sáu Tiền",
+      "lines": [
+        "Nguồn lực chảy một cách công bằng — thế cân bằng giữa cho đi và nhận lại.",
+        "Từ khoá: hào phóng · cho và nhận · sẻ chia",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Nguồn lực chảy một cách công bằng — thế cân bằng giữa cho đi và nhận lại.",
+      "english": {
+        "hook": "Card of the day: Six of Pentacles",
+        "caption": "Resources flowing fairly — the balance of giving and receiving. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-06",
+      "kind": "card",
+      "ref": "hanged-man",
+      "cardId": "hanged-man",
+      "hook": "Lá bài hôm nay: Người Treo Ngược",
+      "lines": [
+        "Một quãng dừng làm đổi khung mọi thứ.",
+        "Từ khoá: buông xuôi · góc nhìn mới · tạm dừng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một quãng dừng làm đổi khung mọi thứ. Người Treo Ngược tìm ra tuệ giác bằng cách thôi kiểm soát và nhìn cùng một vấn đề từ một góc mới.",
+      "english": {
+        "hook": "Card of the day: The Hanged Man",
+        "caption": "A pause that reframes everything. The Hanged Man finds insight by surrendering control and seeing the same problem from a new angle. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-07",
+      "kind": "card",
+      "ref": "hermit",
+      "cardId": "hermit",
+      "hook": "Lá bài hôm nay: Ẩn Sĩ",
+      "lines": [
+        "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường.",
+        "Từ khoá: nội quan · cô tịch · chỉ dẫn từ bên trong",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường. Câu trả lời đến từ bên trong, không phải từ đám đông.",
+      "english": {
+        "hook": "Card of the day: The Hermit",
+        "caption": "A season to step back, seek solitude, and let your own inner light guide you. Answers come from within, not from the crowd. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-08",
+      "kind": "card",
+      "ref": "world",
+      "cardId": "world",
+      "hook": "Lá bài hôm nay: Thế Giới",
+      "lines": [
+        "Một chu kỳ đã trọn và nguyên vẹn.",
+        "Từ khoá: hoàn tất · trọn vẹn · thành tựu",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chu kỳ đã trọn và nguyên vẹn. Thế Giới là sự viên mãn, sự hợp nhất, và cảm giác thỏa lòng khi tới được nơi mình đã cố công đi tới.",
+      "english": {
+        "hook": "Card of the day: The World",
+        "caption": "A cycle completed and whole. The World is fulfillment, integration, and the satisfaction of arriving somewhere you worked to reach. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-09",
+      "kind": "card",
+      "ref": "two-of-swords",
+      "cardId": "two-of-swords",
+      "hook": "Lá bài hôm nay: Hai Kiếm",
+      "lines": [
+        "Bịt mắt trước ngõ cụt, không chịu nhìn để khỏi phải chọn.",
+        "Từ khoá: bế tắc · lựa chọn khó · né tránh",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bịt mắt trước ngõ cụt, không chịu nhìn để khỏi phải chọn.",
+      "english": {
+        "hook": "Card of the day: Two of Swords",
+        "caption": "Blindfolded at an impasse, refusing to see in order to avoid deciding. What do you need from today?"
+      },
+      "fellBack": true,
+      "queueLow": true
+    }
+  ],
+  "queued": [
+    {
+      "date": "2026-10-12",
+      "kind": "card",
+      "ref": "five-of-cups",
+      "cardId": "five-of-cups",
+      "hook": "Lá bài hôm nay: Năm Cốc",
+      "lines": [
+        "Dán mắt vào thứ đã đổ, chưa chịu quay sang những chiếc cốc vẫn còn đứng.",
+        "Từ khoá: đau buồn · mất mát · tiếc nuối",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Dán mắt vào thứ đã đổ, chưa chịu quay sang những chiếc cốc vẫn còn đứng.",
+      "english": {
+        "hook": "Card of the day: Five of Cups",
+        "caption": "Fixed on what has spilled, not yet turning to the cups still standing. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-13",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-14",
+      "kind": "card",
+      "ref": "emperor",
+      "cardId": "emperor",
+      "hook": "Lá bài hôm nay: Hoàng Đế",
+      "lines": [
+        "Trật tự được đặt vào nỗ lực.",
+        "Từ khoá: cấu trúc · quyền lực · ổn định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Trật tự được đặt vào nỗ lực. Hoàng Đế là cấu trúc, ranh giới và sự dẫn dắt vững vàng — xây một thứ bền lâu bằng kỷ luật.",
+      "english": {
+        "hook": "Card of the day: The Emperor",
+        "caption": "Order brought to effort. The Emperor is structure, boundaries, and steady leadership — building something that lasts through discipline. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-15",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-16",
+      "kind": "card",
+      "ref": "page-of-wands",
+      "cardId": "page-of-wands",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Gậy",
+      "lines": [
+        "Một sứ giả háo hức của các ý tưởng, không yên vì muốn khám phá điều gì đó mới.",
+        "Từ khoá: cảm hứng · tò mò · tinh thần tự do",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một sứ giả háo hức của các ý tưởng, không yên vì muốn khám phá điều gì đó mới.",
+      "english": {
+        "hook": "Card of the day: Page of Wands",
+        "caption": "An eager messenger of ideas, restless to explore something new. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-17",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-18",
+      "kind": "card",
+      "ref": "moon",
+      "cardId": "moon",
+      "hook": "Lá bài hôm nay: Mặt Trăng",
+      "lines": [
+        "Không phải mọi thứ đều rõ như vẻ ngoài của nó.",
+        "Từ khoá: ảo ảnh · trực giác · bất định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Không phải mọi thứ đều rõ như vẻ ngoài của nó. Mặt Trăng bảo bạn đi thật cẩn thận qua vùng bất định và tin trực giác hơn tin bề mặt.",
+      "english": {
+        "hook": "Card of the day: The Moon",
+        "caption": "Not everything is as clear as it looks. The Moon asks you to move carefully through uncertainty and trust intuition over appearances. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-19",
+      "kind": "card",
+      "ref": "queen-of-swords",
+      "cardId": "queen-of-swords",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Kiếm",
+      "lines": [
+        "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+        "Từ khoá: sáng tỏ · thành thật · độc lập",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+      "english": {
+        "hook": "Card of the day: Queen of Swords",
+        "caption": "Clear-eyed and honest, seeing through to the truth without sentiment. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-20",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-21",
+      "kind": "card",
+      "ref": "hanged-man",
+      "cardId": "hanged-man",
+      "hook": "Lá bài hôm nay: Người Treo Ngược",
+      "lines": [
+        "Một quãng dừng làm đổi khung mọi thứ.",
+        "Từ khoá: buông xuôi · góc nhìn mới · tạm dừng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một quãng dừng làm đổi khung mọi thứ. Người Treo Ngược tìm ra tuệ giác bằng cách thôi kiểm soát và nhìn cùng một vấn đề từ một góc mới.",
+      "english": {
+        "hook": "Card of the day: The Hanged Man",
+        "caption": "A pause that reframes everything. The Hanged Man finds insight by surrendering control and seeing the same problem from a new angle. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-22",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-23",
+      "kind": "card",
+      "ref": "fool",
+      "cardId": "fool",
+      "hook": "Lá bài hôm nay: Chàng Khờ",
+      "lines": [
+        "Một khởi đầu tinh khôi và một bước nhảy của lòng tin.",
+        "Từ khoá: khởi đầu mới · bộc phát · niềm tin",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một khởi đầu tinh khôi và một bước nhảy của lòng tin. Chàng Khờ bước tới với sự tin cậy rộng mở, không mang theo gánh nặng cũ, sẵn lòng bắt đầu mà không cần bản đồ.",
+      "english": {
+        "hook": "Card of the day: The Fool",
+        "caption": "A fresh start and a leap of faith. The Fool steps forward with open trust, unburdened by what came before, willing to begin without a map. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "card",
+      "ref": "king-of-cups",
+      "cardId": "king-of-cups",
+      "hook": "Lá bài hôm nay: Vua Cốc",
+      "lines": [
+        "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+        "Từ khoá: cân bằng cảm xúc · trắc ẩn · khéo léo",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+      "english": {
+        "hook": "Card of the day: King of Cups",
+        "caption": "Feeling deeply yet steady — mastery of the emotional currents. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-26",
+      "kind": "card",
+      "ref": "king-of-pentacles",
+      "cardId": "king-of-pentacles",
+      "hook": "Lá bài hôm nay: Vua Tiền",
+      "lines": [
+        "Sự thành thạo dư dả — một người chu cấp đáng tin, vững vàng trên những gì mình dựng.",
+        "Từ khoá: thịnh vượng · ổn định · chu cấp",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Sự thành thạo dư dả — một người chu cấp đáng tin, vững vàng trên những gì mình dựng.",
+      "english": {
+        "hook": "Card of the day: King of Pentacles",
+        "caption": "Abundant mastery — a reliable provider, secure in what they've built. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-27",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-28",
+      "kind": "card",
+      "ref": "five-of-pentacles",
+      "cardId": "five-of-pentacles",
+      "hook": "Lá bài hôm nay: Năm Tiền",
+      "lines": [
+        "Sự thiếu thốn vật chất, và cảm giác bị bỏ lại ngoài giá lạnh.",
+        "Từ khoá: gian khó · thiếu thốn · bất an",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Sự thiếu thốn vật chất, và cảm giác bị bỏ lại ngoài giá lạnh.",
+      "english": {
+        "hook": "Card of the day: Five of Pentacles",
+        "caption": "Material want, and the feeling of being left out in the cold. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-29",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-30",
+      "kind": "card",
+      "ref": "eight-of-cups",
+      "cardId": "eight-of-cups",
+      "hook": "Lá bài hôm nay: Tám Cốc",
+      "lines": [
+        "Bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn.",
+        "Từ khoá: rời đi · tìm ý nghĩa · vỡ mộng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn.",
+      "english": {
+        "hook": "Card of the day: Eight of Cups",
+        "caption": "Leaving behind what no longer fulfills you in search of something deeper. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-10-31",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-01",
+      "kind": "card",
+      "ref": "nine-of-swords",
+      "cardId": "nine-of-swords",
+      "hook": "Lá bài hôm nay: Chín Kiếm",
+      "lines": [
+        "Cái đầu giữa đêm phóng đại nỗi sợ vượt xa sự thật.",
+        "Từ khoá: lo âu · sợ hãi · mất ngủ vì lo",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Cái đầu giữa đêm phóng đại nỗi sợ vượt xa sự thật.",
+      "english": {
+        "hook": "Card of the day: Nine of Swords",
+        "caption": "The dark-hour mind magnifying fears far past the facts. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "card",
+      "ref": "emperor",
+      "cardId": "emperor",
+      "hook": "Lá bài hôm nay: Hoàng Đế",
+      "lines": [
+        "Trật tự được đặt vào nỗ lực.",
+        "Từ khoá: cấu trúc · quyền lực · ổn định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Trật tự được đặt vào nỗ lực. Hoàng Đế là cấu trúc, ranh giới và sự dẫn dắt vững vàng — xây một thứ bền lâu bằng kỷ luật.",
+      "english": {
+        "hook": "Card of the day: The Emperor",
+        "caption": "Order brought to effort. The Emperor is structure, boundaries, and steady leadership — building something that lasts through discipline. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "card",
+      "ref": "king-of-swords",
+      "cardId": "king-of-swords",
+      "hook": "Lá bài hôm nay: Vua Kiếm",
+      "lines": [
+        "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+        "Từ khoá: uy quyền · sự thật · trí tuệ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+      "english": {
+        "hook": "Card of the day: King of Swords",
+        "caption": "The clear judgment of a principled mind — truth and fair authority. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-07",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-08",
+      "kind": "card",
+      "ref": "hierophant",
+      "cardId": "hierophant",
+      "hook": "Lá bài hôm nay: Giáo Hoàng",
+      "lines": [
+        "Một người thầy, một truyền thống, hay một lối đi đã được thiết lập, đáng để học.",
+        "Từ khoá: truyền thống · chỉ dẫn · học hỏi",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người thầy, một truyền thống, hay một lối đi đã được thiết lập, đáng để học. Giáo Hoàng trân trọng minh triết đã được kiểm chứng và giá trị của niềm tin chung.",
+      "english": {
+        "hook": "Card of the day: The Hierophant",
+        "caption": "A teacher, tradition, or established path worth learning from. The Hierophant honors proven wisdom and the value of shared belief. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-09",
+      "kind": "card",
+      "ref": "hermit",
+      "cardId": "hermit",
+      "hook": "Lá bài hôm nay: Ẩn Sĩ",
+      "lines": [
+        "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường.",
+        "Từ khoá: nội quan · cô tịch · chỉ dẫn từ bên trong",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường. Câu trả lời đến từ bên trong, không phải từ đám đông.",
+      "english": {
+        "hook": "Card of the day: The Hermit",
+        "caption": "A season to step back, seek solitude, and let your own inner light guide you. Answers come from within, not from the crowd. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-10",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-11",
+      "kind": "card",
+      "ref": "world",
+      "cardId": "world",
+      "hook": "Lá bài hôm nay: Thế Giới",
+      "lines": [
+        "Một chu kỳ đã trọn và nguyên vẹn.",
+        "Từ khoá: hoàn tất · trọn vẹn · thành tựu",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chu kỳ đã trọn và nguyên vẹn. Thế Giới là sự viên mãn, sự hợp nhất, và cảm giác thỏa lòng khi tới được nơi mình đã cố công đi tới.",
+      "english": {
+        "hook": "Card of the day: The World",
+        "caption": "A cycle completed and whole. The World is fulfillment, integration, and the satisfaction of arriving somewhere you worked to reach. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-13",
+      "kind": "card",
+      "ref": "six-of-wands",
+      "cardId": "six-of-wands",
+      "hook": "Lá bài hôm nay: Sáu Gậy",
+      "lines": [
+        "Sự thừa nhận công khai và một chiến thắng xứng đáng, phi ngựa giữa thanh thiên bạch nhật.",
+        "Từ khoá: chiến thắng · được công nhận · thành công",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Sự thừa nhận công khai và một chiến thắng xứng đáng, phi ngựa giữa thanh thiên bạch nhật.",
+      "english": {
+        "hook": "Card of the day: Six of Wands",
+        "caption": "Public acknowledgment and a well-earned win, ridden out in the open. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-14",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-15",
+      "kind": "card",
+      "ref": "hermit",
+      "cardId": "hermit",
+      "hook": "Lá bài hôm nay: Ẩn Sĩ",
+      "lines": [
+        "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường.",
+        "Từ khoá: nội quan · cô tịch · chỉ dẫn từ bên trong",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường. Câu trả lời đến từ bên trong, không phải từ đám đông.",
+      "english": {
+        "hook": "Card of the day: The Hermit",
+        "caption": "A season to step back, seek solitude, and let your own inner light guide you. Answers come from within, not from the crowd. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "card",
+      "ref": "eight-of-wands",
+      "cardId": "eight-of-wands",
+      "hook": "Lá bài hôm nay: Tám Gậy",
+      "lines": [
+        "Biến cố và tin tức ập tới nhanh; những gì kẹt lâu bỗng chuyển động.",
+        "Từ khoá: tốc độ · chuyển động · đổi thay nhanh",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Biến cố và tin tức ập tới nhanh; những gì kẹt lâu bỗng chuyển động.",
+      "english": {
+        "hook": "Card of the day: Eight of Wands",
+        "caption": "Events and news arriving quickly; things long stalled suddenly in motion. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-17",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-18",
+      "kind": "card",
+      "ref": "king-of-cups",
+      "cardId": "king-of-cups",
+      "hook": "Lá bài hôm nay: Vua Cốc",
+      "lines": [
+        "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+        "Từ khoá: cân bằng cảm xúc · trắc ẩn · khéo léo",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+      "english": {
+        "hook": "Card of the day: King of Cups",
+        "caption": "Feeling deeply yet steady — mastery of the emotional currents. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-20",
+      "kind": "card",
+      "ref": "two-of-swords",
+      "cardId": "two-of-swords",
+      "hook": "Lá bài hôm nay: Hai Kiếm",
+      "lines": [
+        "Bịt mắt trước ngõ cụt, không chịu nhìn để khỏi phải chọn.",
+        "Từ khoá: bế tắc · lựa chọn khó · né tránh",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bịt mắt trước ngõ cụt, không chịu nhìn để khỏi phải chọn.",
+      "english": {
+        "hook": "Card of the day: Two of Swords",
+        "caption": "Blindfolded at an impasse, refusing to see in order to avoid deciding. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-21",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-22",
+      "kind": "card",
+      "ref": "queen-of-wands",
+      "cardId": "queen-of-wands",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Gậy",
+      "lines": [
+        "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+        "Từ khoá: tự tin · ấm áp · sức hút",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+      "english": {
+        "hook": "Card of the day: Queen of Wands",
+        "caption": "Vibrant and self-assured, drawing others in through natural warmth and courage. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-23",
+      "kind": "card",
+      "ref": "six-of-cups",
+      "cardId": "six-of-cups",
+      "hook": "Lá bài hôm nay: Sáu Cốc",
+      "lines": [
+        "Vị ngọt từ quá khứ — ký ức cũ, những cuộc hội ngộ, hay một lòng hào phóng giản dị.",
+        "Từ khoá: hoài niệm · hồn nhiên · hội ngộ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Vị ngọt từ quá khứ — ký ức cũ, những cuộc hội ngộ, hay một lòng hào phóng giản dị.",
+      "english": {
+        "hook": "Card of the day: Six of Cups",
+        "caption": "Sweetness from the past — old memories, reunions, or simple generosity. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-25",
+      "kind": "card",
+      "ref": "five-of-swords",
+      "cardId": "five-of-swords",
+      "hook": "Lá bài hôm nay: Năm Kiếm",
+      "lines": [
+        "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+        "Từ khoá: xung đột · chiến thắng rỗng · thất bại",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+      "english": {
+        "hook": "Card of the day: Five of Swords",
+        "caption": "A win that costs more than it gives, leaving resentment behind. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-26",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-27",
+      "kind": "card",
+      "ref": "page-of-pentacles",
+      "cardId": "page-of-pentacles",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Tiền",
+      "lines": [
+        "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+        "Từ khoá: tham vọng · học hành · cơ hội mới",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+      "english": {
+        "hook": "Card of the day: Page of Pentacles",
+        "caption": "A studious beginner laying practical plans for something real. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-28",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-29",
+      "kind": "card",
+      "ref": "page-of-pentacles",
+      "cardId": "page-of-pentacles",
+      "hook": "Lá bài hôm nay: Tiểu Đồng Tiền",
+      "lines": [
+        "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+        "Từ khoá: tham vọng · học hành · cơ hội mới",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+      "english": {
+        "hook": "Card of the day: Page of Pentacles",
+        "caption": "A studious beginner laying practical plans for something real. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-11-30",
+      "kind": "card",
+      "ref": "king-of-swords",
+      "cardId": "king-of-swords",
+      "hook": "Lá bài hôm nay: Vua Kiếm",
+      "lines": [
+        "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+        "Từ khoá: uy quyền · sự thật · trí tuệ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+      "english": {
+        "hook": "Card of the day: King of Swords",
+        "caption": "The clear judgment of a principled mind — truth and fair authority. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-01",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-02",
+      "kind": "card",
+      "ref": "three-of-swords",
+      "cardId": "three-of-swords",
+      "hook": "Lá bài hôm nay: Ba Kiếm",
+      "lines": [
+        "Nỗi đau sạch và xuyên thấu của trái tim tan vỡ — buồn bã mà cũng làm mọi thứ sáng ra.",
+        "Từ khoá: trái tim tan vỡ · sầu muộn · sự thật đau",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Nỗi đau sạch và xuyên thấu của trái tim tan vỡ — buồn bã mà cũng làm mọi thứ sáng ra.",
+      "english": {
+        "hook": "Card of the day: Three of Swords",
+        "caption": "The clean, piercing pain of heartbreak — sorrow that also clarifies. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-03",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-04",
+      "kind": "card",
+      "ref": "temperance",
+      "cardId": "temperance",
+      "hook": "Lá bài hôm nay: Tiết Độ",
+      "lines": [
+        "Hai thái cực được hòa thành thứ dùng được.",
+        "Từ khoá: cân bằng · chừng mực · kiên nhẫn",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Hai thái cực được hòa thành thứ dùng được. Tiết Độ là sự kiên nhẫn, chừng mực, và việc pha trộn đều tay những mặt đối lập thành hòa hợp.",
+      "english": {
+        "hook": "Card of the day: Temperance",
+        "caption": "Two extremes blended into something workable. Temperance is patience, moderation, and the steady mixing of opposites into harmony. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-05",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-06",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-07",
+      "kind": "card",
+      "ref": "nine-of-cups",
+      "cardId": "nine-of-cups",
+      "hook": "Lá bài hôm nay: Chín Cốc",
+      "lines": [
+        "Lá bài của ước nguyện — sự thỏa mãn về cảm xúc và niềm mãn nguyện lặng lẽ, xứng đáng.",
+        "Từ khoá: mãn nguyện · thỏa lòng · ước nguyện thành",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Lá bài của ước nguyện — sự thỏa mãn về cảm xúc và niềm mãn nguyện lặng lẽ, xứng đáng.",
+      "english": {
+        "hook": "Card of the day: Nine of Cups",
+        "caption": "The wish card — emotional satisfaction and quiet, earned contentment. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-08",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-09",
+      "kind": "card",
+      "ref": "queen-of-pentacles",
+      "cardId": "queen-of-pentacles",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Tiền",
+      "lines": [
+        "Vững chãi và rộng lượng, chăm lo cho nhà, cho việc và cho người bằng hơi ấm.",
+        "Từ khoá: nuôi dưỡng · thiết thực · sung túc",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Vững chãi và rộng lượng, chăm lo cho nhà, cho việc và cho người bằng hơi ấm.",
+      "english": {
+        "hook": "Card of the day: Queen of Pentacles",
+        "caption": "Grounded and generous, tending home, work, and others with warmth. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-10",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-11",
+      "kind": "card",
+      "ref": "four-of-wands",
+      "cardId": "four-of-wands",
+      "hook": "Lá bài hôm nay: Bốn Gậy",
+      "lines": [
+        "Một ngưỡng cửa vui — sự ổn định, cộng đồng, và một khoảnh khắc đáng đánh dấu.",
+        "Từ khoá: lễ mừng · hòa hợp · trở về nhà",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một ngưỡng cửa vui — sự ổn định, cộng đồng, và một khoảnh khắc đáng đánh dấu.",
+      "english": {
+        "hook": "Card of the day: Four of Wands",
+        "caption": "A joyful threshold — stability, community, and a moment worth marking. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-12",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-13",
+      "kind": "card",
+      "ref": "two-of-pentacles",
+      "cardId": "two-of-pentacles",
+      "hook": "Lá bài hôm nay: Hai Tiền",
+      "lines": [
+        "Giữ nhiều đòi hỏi cùng chuyển động, cân bằng một cách nhanh nhẹn.",
+        "Từ khoá: cân bằng · linh hoạt · tung hứng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Giữ nhiều đòi hỏi cùng chuyển động, cân bằng một cách nhanh nhẹn.",
+      "english": {
+        "hook": "Card of the day: Two of Pentacles",
+        "caption": "Keeping several demands in motion, balancing with agility. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-14",
+      "kind": "card",
+      "ref": "king-of-swords",
+      "cardId": "king-of-swords",
+      "hook": "Lá bài hôm nay: Vua Kiếm",
+      "lines": [
+        "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+        "Từ khoá: uy quyền · sự thật · trí tuệ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+      "english": {
+        "hook": "Card of the day: King of Swords",
+        "caption": "The clear judgment of a principled mind — truth and fair authority. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-15",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-16",
+      "kind": "card",
+      "ref": "moon",
+      "cardId": "moon",
+      "hook": "Lá bài hôm nay: Mặt Trăng",
+      "lines": [
+        "Không phải mọi thứ đều rõ như vẻ ngoài của nó.",
+        "Từ khoá: ảo ảnh · trực giác · bất định",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Không phải mọi thứ đều rõ như vẻ ngoài của nó. Mặt Trăng bảo bạn đi thật cẩn thận qua vùng bất định và tin trực giác hơn tin bề mặt.",
+      "english": {
+        "hook": "Card of the day: The Moon",
+        "caption": "Not everything is as clear as it looks. The Moon asks you to move carefully through uncertainty and trust intuition over appearances. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-17",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-18",
+      "kind": "card",
+      "ref": "queen-of-swords",
+      "cardId": "queen-of-swords",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Kiếm",
+      "lines": [
+        "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+        "Từ khoá: sáng tỏ · thành thật · độc lập",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+      "english": {
+        "hook": "Card of the day: Queen of Swords",
+        "caption": "Clear-eyed and honest, seeing through to the truth without sentiment. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-19",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-20",
+      "kind": "card",
+      "ref": "three-of-pentacles",
+      "cardId": "three-of-pentacles",
+      "hook": "Lá bài hôm nay: Ba Tiền",
+      "lines": [
+        "Công việc lành nghề được ghi nhận — cùng nhau xây một thứ cho tử tế.",
+        "Từ khoá: hợp tác · tay nghề · làm việc nhóm",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Công việc lành nghề được ghi nhận — cùng nhau xây một thứ cho tử tế.",
+      "english": {
+        "hook": "Card of the day: Three of Pentacles",
+        "caption": "Skilled work recognized — building something well, together. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-21",
+      "kind": "card",
+      "ref": "queen-of-wands",
+      "cardId": "queen-of-wands",
+      "hook": "Lá bài hôm nay: Nữ Hoàng Gậy",
+      "lines": [
+        "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+        "Từ khoá: tự tin · ấm áp · sức hút",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+      "english": {
+        "hook": "Card of the day: Queen of Wands",
+        "caption": "Vibrant and self-assured, drawing others in through natural warmth and courage. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-22",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-23",
+      "kind": "card",
+      "ref": "devil",
+      "cardId": "devil",
+      "hook": "Lá bài hôm nay: Ác Quỷ",
+      "lines": [
+        "Một thói quen, ràng buộc hay nỗi sợ đáng được gọi tên thật thà.",
+        "Từ khoá: ràng buộc · cám dỗ · bóng tối",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một thói quen, ràng buộc hay nỗi sợ đáng được gọi tên thật thà. Ác Quỷ cho thấy những sợi xích ta nhầm là chỗ dựa — và nhắc rằng ổ khóa ấy chính bạn mở được.",
+      "english": {
+        "hook": "Card of the day: The Devil",
+        "caption": "A habit, attachment, or fear worth naming honestly. The Devil shows the chains we mistake for security — and reminds you the lock is one you can open. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-24",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-25",
+      "kind": "card",
+      "ref": "five-of-swords",
+      "cardId": "five-of-swords",
+      "hook": "Lá bài hôm nay: Năm Kiếm",
+      "lines": [
+        "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+        "Từ khoá: xung đột · chiến thắng rỗng · thất bại",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+      "english": {
+        "hook": "Card of the day: Five of Swords",
+        "caption": "A win that costs more than it gives, leaving resentment behind. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-26",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-27",
+      "kind": "card",
+      "ref": "ace-of-swords",
+      "cardId": "ace-of-swords",
+      "hook": "Lá bài hôm nay: Át Kiếm",
+      "lines": [
+        "Một sự sáng tỏ đột ngột cắt xuyên qua hoang mang — sự thật được nhìn thấy sắc nét.",
+        "Từ khoá: sáng tỏ · sự thật · bừng ngộ",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một sự sáng tỏ đột ngột cắt xuyên qua hoang mang — sự thật được nhìn thấy sắc nét.",
+      "english": {
+        "hook": "Card of the day: Ace of Swords",
+        "caption": "A sudden clarity that cuts through confusion — truth seen sharply. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-28",
+      "kind": "card",
+      "ref": "magician",
+      "cardId": "magician",
+      "hook": "Lá bài hôm nay: Nhà Ảo Thuật",
+      "lines": [
+        "Bạn đã nắm sẵn mọi công cụ mình cần.",
+        "Từ khoá: hiện thực hóa · ý chí · tháo vát",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Bạn đã nắm sẵn mọi công cụ mình cần. Nhà Ảo Thuật là năng lực biến ý định thành hành động và làm cho một điều trở thành thật bằng ý chí tập trung.",
+      "english": {
+        "hook": "Card of the day: The Magician",
+        "caption": "You already hold every tool you need. The Magician is the power to turn intention into action and make something real through focused will. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-29",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-30",
+      "kind": "card",
+      "ref": "ten-of-swords",
+      "cardId": "ten-of-swords",
+      "hook": "Lá bài hôm nay: Mười Kiếm",
+      "lines": [
+        "Một kết thúc nặng nề và dứt khoát — điểm thấp nhất mà từ đó chỉ còn đường đi lên.",
+        "Từ khoá: kết thúc đau đớn · chạm đáy · phản bội",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một kết thúc nặng nề và dứt khoát — điểm thấp nhất mà từ đó chỉ còn đường đi lên.",
+      "english": {
+        "hook": "Card of the day: Ten of Swords",
+        "caption": "A hard, final ending — the low point that can only turn upward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2026-12-31",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-01",
+      "kind": "card",
+      "ref": "tower",
+      "cardId": "tower",
+      "hook": "Lá bài hôm nay: Tòa Tháp",
+      "lines": [
+        "Một sự thật hay biến động bất ngờ quét sạch những gì dựng trên nền móng giả.",
+        "Từ khoá: chấn động · đổi thay đột ngột · mặc khải",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một sự thật hay biến động bất ngờ quét sạch những gì dựng trên nền móng giả. Tòa Tháp gây đổ vỡ, nhưng nó cho thấy thứ đáng lẽ phải sụp.",
+      "english": {
+        "hook": "Card of the day: The Tower",
+        "caption": "A sudden truth or upheaval that clears away what was built on a false foundation. The Tower is disruptive, but it reveals what needed to fall. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-02",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-03",
+      "kind": "card",
+      "ref": "six-of-swords",
+      "cardId": "six-of-swords",
+      "hook": "Lá bài hôm nay: Sáu Kiếm",
+      "lines": [
+        "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+        "Từ khoá: chuyển tiếp · bước tiếp · chuyến qua sông",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+      "english": {
+        "hook": "Card of the day: Six of Swords",
+        "caption": "Leaving turbulent waters for calmer ones — necessary passage forward. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-04",
+      "kind": "card",
+      "ref": "seven-of-wands",
+      "cardId": "seven-of-wands",
+      "hook": "Lá bài hôm nay: Bảy Gậy",
+      "lines": [
+        "Giữ một vị thế khó nhọc mới có được trước những kẻ muốn giành lấy nó.",
+        "Từ khoá: phòng thủ · bền chí · giữ vững lập trường",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Giữ một vị thế khó nhọc mới có được trước những kẻ muốn giành lấy nó.",
+      "english": {
+        "hook": "Card of the day: Seven of Wands",
+        "caption": "Holding a hard-won position against challengers who want what you have. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-05",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-06",
+      "kind": "card",
+      "ref": "hanged-man",
+      "cardId": "hanged-man",
+      "hook": "Lá bài hôm nay: Người Treo Ngược",
+      "lines": [
+        "Một quãng dừng làm đổi khung mọi thứ.",
+        "Từ khoá: buông xuôi · góc nhìn mới · tạm dừng",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một quãng dừng làm đổi khung mọi thứ. Người Treo Ngược tìm ra tuệ giác bằng cách thôi kiểm soát và nhìn cùng một vấn đề từ một góc mới.",
+      "english": {
+        "hook": "Card of the day: The Hanged Man",
+        "caption": "A pause that reframes everything. The Hanged Man finds insight by surrendering control and seeing the same problem from a new angle. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-07",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-08",
+      "kind": "card",
+      "ref": "world",
+      "cardId": "world",
+      "hook": "Lá bài hôm nay: Thế Giới",
+      "lines": [
+        "Một chu kỳ đã trọn và nguyên vẹn.",
+        "Từ khoá: hoàn tất · trọn vẹn · thành tựu",
+        "Hôm nay bạn đang cần điều gì?"
+      ],
+      "caption": "Một chu kỳ đã trọn và nguyên vẹn. Thế Giới là sự viên mãn, sự hợp nhất, và cảm giác thỏa lòng khi tới được nơi mình đã cố công đi tới.",
+      "english": {
+        "hook": "Card of the day: The World",
+        "caption": "A cycle completed and whole. The World is fulfillment, integration, and the satisfaction of arriving somewhere you worked to reach. What do you need from today?"
+      },
+      "fellBack": false,
+      "queueLow": true
+    },
+    {
+      "date": "2027-01-09",
+      "kind": "knowledge",
+      "ref": "b",
+      "cardId": "death",
+      "hook": "Hook.",
+      "lines": [
+        "Một.",
+        "Hai.",
+        "Ba."
+      ],
+      "caption": "Caption.",
+      "english": {
+        "hook": "Hook.",
+        "caption": "Caption."
+      },
+      "fellBack": false,
+      "queueLow": true
+    }
+  ]
+}

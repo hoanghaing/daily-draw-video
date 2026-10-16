@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "fool",
+    "name": "The Fool",
+    "teaser": "A leap taken before you can see where you'll land.",
+    "nameVi": "Chàng Khờ",
+    "teaserVi": "Một bước nhảy trước khi kịp thấy mình sẽ đáp xuống đâu.",
+    "keywordsVi": [
+      "khởi đầu mới",
+      "bộc phát",
+      "niềm tin"
+    ],
+    "meaningVi": "Một khởi đầu tinh khôi và một bước nhảy của lòng tin. Chàng Khờ bước tới với sự tin cậy rộng mở, không mang theo gánh nặng cũ, sẵn lòng bắt đầu mà không cần bản đồ.",
+    "meaningEn": "A fresh start and a leap of faith. The Fool steps forward with open trust, unburdened by what came before, willing to begin without a map."
+  },
+  {
+    "id": "magician",
+    "name": "The Magician",
+    "teaser": "Everything you need is already in your hands.",
+    "nameVi": "Nhà Ảo Thuật",
+    "teaserVi": "Mọi thứ bạn cần đều đã nằm trong tay bạn.",
+    "keywordsVi": [
+      "hiện thực hóa",
+      "ý chí",
+      "tháo vát"
+    ],
+    "meaningVi": "Bạn đã nắm sẵn mọi công cụ mình cần. Nhà Ảo Thuật là năng lực biến ý định thành hành động và làm cho một điều trở thành thật bằng ý chí tập trung.",
+    "meaningEn": "You already hold every tool you need. The Magician is the power to turn intention into action and make something real through focused will."
+  },
+  {
+    "id": "high-priestess",
+    "name": "The High Priestess",
+    "teaser": "An answer waiting beneath the surface, not yet spoken.",
+    "nameVi": "Nữ Tư Tế",
+    "teaserVi": "Tri thức ẩn mình dưới bề mặt thực tại, kiên nhẫn chờ đợi khoảnh khắc được nhận diện.",
+    "keywordsVi": [
+      "trực giác",
+      "vô thức",
+      "bí ẩn"
+    ],
+    "meaningVi": "Một câu trả lời sống dưới bề mặt, được biết bằng trực giác hơn là lý trí. Đây là lúc lắng nghe vào trong trước khi hành động ra ngoài.",
+    "meaningEn": "An answer that lives beneath the surface, known by intuition rather than reason. A time to listen inward before acting outward."
+  },
+  {
+    "id": "empress",
+    "name": "The Empress",
+    "teaser": "Something you've tended is finally ready to grow.",
+    "nameVi": "Nữ Hoàng",
+    "teaserVi": "Điều bạn chăm bẵm bấy lâu cuối cùng đã sẵn sàng lớn lên.",
+    "keywordsVi": [
+      "sung túc",
+      "nuôi dưỡng",
+      "sáng tạo"
+    ],
+    "meaningVi": "Điều bạn chăm bẵm đã sẵn sàng đơm hoa. Nữ Hoàng là sức sáng tạo màu mỡ, sự chăm sóc, và việc những gì bạn nuôi dưỡng tự nhiên bung nở.",
+    "meaningEn": "Something you have tended is ready to flourish. The Empress is fertile creativity, care, and the natural unfolding of what you've nourished."
+  },
+  {
+    "id": "emperor",
+    "name": "The Emperor",
+    "teaser": "Structure, where until now there has only been effort.",
+    "nameVi": "Hoàng Đế",
+    "teaserVi": "Sự định hình của cấu trúc, tại một vùng không gian mà cho tới giờ chỉ toàn những nỗ lực tự phát.",
+    "keywordsVi": [
+      "cấu trúc",
+      "quyền lực",
+      "ổn định"
+    ],
+    "meaningVi": "Trật tự được đặt vào nỗ lực. Hoàng Đế là cấu trúc, ranh giới và sự dẫn dắt vững vàng — xây một thứ bền lâu bằng kỷ luật.",
+    "meaningEn": "Order brought to effort. The Emperor is structure, boundaries, and steady leadership — building something that lasts through discipline."
+  },
+  {
+    "id": "hierophant",
+    "name": "The Hierophant",
+    "teaser": "A tradition, a teacher, or a rule worth learning first.",
+    "nameVi": "Giáo Hoàng",
+    "teaserVi": "Một truyền thống, một người thầy, hay một quy tắc đáng học trước đã.",
+    "keywordsVi": [
+      "truyền thống",
+      "chỉ dẫn",
+      "học hỏi"
+    ],
+    "meaningVi": "Một người thầy, một truyền thống, hay một lối đi đã được thiết lập, đáng để học. Giáo Hoàng trân trọng minh triết đã được kiểm chứng và giá trị của niềm tin chung.",
+    "meaningEn": "A teacher, tradition, or established path worth learning from. The Hierophant honors proven wisdom and the value of shared belief."
+  },
+  {
+    "id": "lovers",
+    "name": "The Lovers",
+    "teaser": "A choice that reveals what you actually value.",
+    "nameVi": "Tình Nhân",
+    "teaserVi": "Một lựa chọn phơi bày điều bạn thật sự coi trọng.",
+    "keywordsVi": [
+      "kết hợp",
+      "lựa chọn",
+      "giá trị sống"
+    ],
+    "meaningVi": "Một mối liên kết có ý nghĩa, hoặc một lựa chọn phơi bày điều bạn thật sự coi trọng. Tình Nhân là sự đồng điệu — giữa người với người, hoặc giữa bạn với chính trái tim mình.",
+    "meaningEn": "A meaningful connection or a choice that reveals what you truly value. The Lovers is alignment — between people, or between you and your own heart."
+  },
+  {
+    "id": "chariot",
+    "name": "The Chariot",
+    "teaser": "Two opposing forces, and your grip steady on both.",
+    "nameVi": "Cỗ Xe",
+    "teaserVi": "Hai lực đối nghịch, và tay bạn ghì vững cả hai.",
+    "keywordsVi": [
+      "ý chí",
+      "quyết tâm",
+      "làm chủ"
+    ],
+    "meaningVi": "Đà tiến được giữ vững giữa những lực đối nghịch. Cỗ Xe là động lực và khả năng tự chủ đưa bạn tới một đích mà bạn không chịu bỏ.",
+    "meaningEn": "Momentum held steady through opposing forces. The Chariot is drive and self-command carrying you toward a goal you refuse to abandon."
+  },
+  {
+    "id": "strength",
+    "name": "Strength",
+    "teaser": "The quiet kind of courage that outlasts force.",
+    "nameVi": "Sức Mạnh",
+    "teaserVi": "Thứ can đảm lặng lẽ, bền hơn cả sức mạnh.",
+    "keywordsVi": [
+      "can đảm",
+      "kiên nhẫn",
+      "dịu dàng"
+    ],
+    "meaningVi": "Thứ sức mạnh lặng lẽ thuần phục bằng kiên nhẫn thay vì bằng vũ lực. Can đảm thật ở đây là điềm tĩnh, trắc ẩn và vững vàng dưới áp lực.",
+    "meaningEn": "The quiet strength that tames through patience rather than force. Real courage here is calm, compassionate, and steady under pressure."
+  },
+  {
+    "id": "hermit",
+    "name": "The Hermit",
+    "teaser": "A season for stepping back before you speak.",
+    "nameVi": "Ẩn Sĩ",
+    "teaserVi": "Khoảng lặng chủ động để nhìn lại mình và soi đường cho người khác.",
+    "keywordsVi": [
+      "nội quan",
+      "cô tịch",
+      "chỉ dẫn từ bên trong"
+    ],
+    "meaningVi": "Một mùa để lùi lại, tìm sự tĩnh lặng, và để ánh sáng bên trong dẫn đường. Câu trả lời đến từ bên trong, không phải từ đám đông.",
+    "meaningEn": "A season to step back, seek solitude, and let your own inner light guide you. Answers come from within, not from the crowd."
+  },
+  {
+    "id": "wheel",
+    "name": "Wheel of Fortune",
+    "teaser": "A turn in your favor, arriving on its own schedule.",
+    "nameVi": "Bánh Xe Số Phận",
+    "teaserVi": "Vòng quay định mệnh xoay chiều, mở ra ngã rẽ bất ngờ đầy may mắn.",
+    "keywordsVi": [
+      "đổi thay",
+      "chu kỳ",
+      "vận mệnh"
+    ],
+    "meaningVi": "Bánh xe quay về phía có lợi cho bạn. Một chuyển dịch của vận may, một chu kỳ khép lại và một chu kỳ khác mở ra — đà tiến đến theo nhịp riêng của nó.",
+    "meaningEn": "The wheel turns in your favor. A shift in fortune, a cycle completing and another beginning — momentum arriving on its own schedule."
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "teaser": "Consequences catching up with cause, cleanly.",
+    "nameVi": "Công Lý",
+    "teaserVi": "Gieo nhân nào gặp quả nấy, minh bạch và sòng phẳng.",
+    "keywordsVi": [
+      "công bằng",
+      "sự thật",
+      "trách nhiệm"
+    ],
+    "meaningVi": "Hệ quả gặp lại nguyên nhân của nó, gọn ghẽ. Công Lý đòi sự thành thật và tinh thần chịu trách nhiệm, và tưởng thưởng những quyết định làm với đôi mắt sáng.",
+    "meaningEn": "Consequences meeting their cause, cleanly. Justice asks for honesty and accountability, and rewards decisions made with clear eyes."
+  },
+  {
+    "id": "hanged-man",
+    "name": "The Hanged Man",
+    "teaser": "The same problem, seen from a angle you hadn't tried.",
+    "nameVi": "Người Treo Ngược",
+    "teaserVi": "Dừng lại để đổi góc nhìn, lùi một bước mở ra lối đi mới.",
+    "keywordsVi": [
+      "buông xuôi",
+      "góc nhìn mới",
+      "tạm dừng"
+    ],
+    "meaningVi": "Một quãng dừng làm đổi khung mọi thứ. Người Treo Ngược tìm ra tuệ giác bằng cách thôi kiểm soát và nhìn cùng một vấn đề từ một góc mới.",
+    "meaningEn": "A pause that reframes everything. The Hanged Man finds insight by surrendering control and seeing the same problem from a new angle."
+  },
+  {
+    "id": "death",
+    "name": "Death",
+    "teaser": "One chapter closing so the next has room to start.",
+    "nameVi": "Cái Chết",
+    "teaserVi": "Cánh cửa cũ khép lại vĩnh viễn để nhường chỗ cho sự tái sinh.",
+    "keywordsVi": [
+      "kết thúc",
+      "chuyển hóa",
+      "chuyển tiếp"
+    ],
+    "meaningVi": "Một chương khép lại để chương sau có chỗ bắt đầu. Cái Chết là sự chuyển hóa — hiếm khi theo nghĩa đen, luôn là dọn chỗ cho sự làm mới.",
+    "meaningEn": "One chapter closing so the next has room to begin. Death is transformation — rarely literal, always about clearing space for renewal."
+  },
+  {
+    "id": "temperance",
+    "name": "Temperance",
+    "teaser": "Two extremes, blended into something workable.",
+    "nameVi": "Tiết Độ",
+    "teaserVi": "Nghệ thuật dung hòa các mặt đối lập để tạo ra thăng bằng và chữa lành.",
+    "keywordsVi": [
+      "cân bằng",
+      "chừng mực",
+      "kiên nhẫn"
+    ],
+    "meaningVi": "Hai thái cực được hòa thành thứ dùng được. Tiết Độ là sự kiên nhẫn, chừng mực, và việc pha trộn đều tay những mặt đối lập thành hòa hợp.",
+    "meaningEn": "Two extremes blended into something workable. Temperance is patience, moderation, and the steady mixing of opposites into harmony."
+  },
+  {
+    "id": "devil",
+    "name": "The Devil",
+    "teaser": "A habit or attachment worth naming honestly.",
+    "nameVi": "Ác Quỷ",
+    "teaserVi": "Sợi xích lỏng lẻo mà ta vẫn tự nguyện đeo.",
+    "keywordsVi": [
+      "ràng buộc",
+      "cám dỗ",
+      "bóng tối"
+    ],
+    "meaningVi": "Một thói quen, ràng buộc hay nỗi sợ đáng được gọi tên thật thà. Ác Quỷ cho thấy những sợi xích ta nhầm là chỗ dựa — và nhắc rằng ổ khóa ấy chính bạn mở được.",
+    "meaningEn": "A habit, attachment, or fear worth naming honestly. The Devil shows the chains we mistake for security — and reminds you the lock is one you can open."
+  },
+  {
+    "id": "tower",
+    "name": "The Tower",
+    "teaser": "A sudden truth, arriving faster than you'd have chosen.",
+    "nameVi": "Tòa Tháp",
+    "teaserVi": "Sự sụp đổ chớp nhoáng của những ảo ảnh để trơ lại sự thật.",
+    "keywordsVi": [
+      "chấn động",
+      "đổi thay đột ngột",
+      "mặc khải"
+    ],
+    "meaningVi": "Một sự thật hay biến động bất ngờ quét sạch những gì dựng trên nền móng giả. Tòa Tháp gây đổ vỡ, nhưng nó cho thấy thứ đáng lẽ phải sụp.",
+    "meaningEn": "A sudden truth or upheaval that clears away what was built on a false foundation. The Tower is disruptive, but it reveals what needed to fall."
+  },
+  {
+    "id": "star",
+    "name": "The Star",
+    "teaser": "Quiet hope, returning after something difficult.",
+    "nameVi": "Ngôi Sao",
+    "teaserVi": "Bình yên, hy vọng và sự chữa lành tìm đến sau những ngày giông bão.",
+    "keywordsVi": [
+      "hy vọng",
+      "hồi sinh",
+      "an nhiên"
+    ],
+    "meaningVi": "Hy vọng lặng lẽ trở lại sau một điều khó nhọc. Ngôi Sao là sự chữa lành, niềm tin, và cảm giác bình thản rằng phần tệ nhất đã qua.",
+    "meaningEn": "Quiet hope returning after something hard. The Star is healing, faith, and the calm sense that the worst has passed."
+  },
+  {
+    "id": "moon",
+    "name": "The Moon",
+    "teaser": "Not everything here is as clear as it first looks.",
+    "nameVi": "Mặt Trăng",
+    "teaserVi": "Không phải mọi thứ trước mắt đều đúng như vẻ bề ngoài của nó.",
+    "keywordsVi": [
+      "ảo ảnh",
+      "trực giác",
+      "bất định"
+    ],
+    "meaningVi": "Không phải mọi thứ đều rõ như vẻ ngoài của nó. Mặt Trăng bảo bạn đi thật cẩn thận qua vùng bất định và tin trực giác hơn tin bề mặt.",
+    "meaningEn": "Not everything is as clear as it looks. The Moon asks you to move carefully through uncertainty and trust intuition over appearances."
+  },
+  {
+    "id": "sun",
+    "name": "The Sun",
+    "teaser": "Plain, uncomplicated clarity, arriving at last.",
+    "nameVi": "Mặt Trời",
+    "teaserVi": "Sức sống rực rỡ, thành công trọn vẹn và niềm vui thuần khiết.",
+    "keywordsVi": [
+      "niềm vui",
+      "thành công",
+      "sáng tỏ"
+    ],
+    "meaningVi": "Sự sáng tỏ và hơi ấm giản dị, không rắc rối. Mặt Trời là thành công, sự tự tin, và cái tốt lành đơn sơ của việc mọi thứ diễn ra suôn sẻ.",
+    "meaningEn": "Plain, uncomplicated clarity and warmth. The Sun is success, confidence, and the simple good of things going right."
+  },
+  {
+    "id": "judgement",
+    "name": "Judgement",
+    "teaser": "A reckoning that clears the way for what's next.",
+    "nameVi": "Phán Xét",
+    "teaserVi": "Tiếng gọi thức tỉnh, thanh tẩy quá khứ để tái sinh trọn vẹn.",
+    "keywordsVi": [
+      "thanh toán",
+      "thức tỉnh",
+      "làm mới"
+    ],
+    "meaningVi": "Một cuộc thanh toán dọn đường đi tới. Phán Xét là khoảnh khắc tự nhìn lại mình thật thà và tiếng gọi vươn lên thành một điều mới.",
+    "meaningEn": "A reckoning that clears the way forward. Judgement is a moment of honest self-assessment and the call to rise into something new."
+  },
+  {
+    "id": "world",
+    "name": "The World",
+    "teaser": "A cycle completed — whole, for now, on its own terms.",
+    "nameVi": "Thế Giới",
+    "teaserVi": "Điểm kết hoàn hảo của hành trình, đánh dấu sự viên mãn và mở ra chu kỳ mới.",
+    "keywordsVi": [
+      "hoàn tất",
+      "trọn vẹn",
+      "thành tựu"
+    ],
+    "meaningVi": "Một chu kỳ đã trọn và nguyên vẹn. Thế Giới là sự viên mãn, sự hợp nhất, và cảm giác thỏa lòng khi tới được nơi mình đã cố công đi tới.",
+    "meaningEn": "A cycle completed and whole. The World is fulfillment, integration, and the satisfaction of arriving somewhere you worked to reach."
+  },
+  {
+    "id": "ace-of-wands",
+    "name": "Ace of Wands",
+    "teaser": "A spark of inspiration, raw creative fire waiting to be used.",
+    "nameVi": "Át Gậy",
+    "teaserVi": "Một tia cảm hứng, lửa sáng tạo thô ráp đang chờ được dùng.",
+    "keywordsVi": [
+      "cảm hứng",
+      "khởi sự mới",
+      "tia sáng tạo"
+    ],
+    "meaningVi": "Một luồng năng lượng sáng tạo thô ráp và thôi thúc muốn bắt đầu một điều táo bạo.",
+    "meaningEn": "A surge of raw creative energy and the impulse to begin something bold."
+  },
+  {
+    "id": "two-of-wands",
+    "name": "Two of Wands",
+    "teaser": "The first plan laid, one foot still on home ground.",
+    "nameVi": "Hai Gậy",
+    "teaserVi": "Kế hoạch đầu tiên đã vạch, một chân vẫn còn trên đất nhà.",
+    "keywordsVi": [
+      "hoạch định",
+      "tầm nhìn xa",
+      "quyết định"
+    ],
+    "meaningVi": "Đứng giữa sự dễ chịu của mái nhà và sức hút của thế giới rộng hơn, cân nhắc sẽ đi đâu tiếp.",
+    "meaningEn": "Standing between the comfort of home and the pull of a wider world, weighing where to go next."
+  },
+  {
+    "id": "three-of-wands",
+    "name": "Three of Wands",
+    "teaser": "Ventures underway; you watch your ships come in.",
+    "nameVi": "Ba Gậy",
+    "teaserVi": "Những chuyến đi đã khởi hành; bạn đứng nhìn thuyền mình cập bến.",
+    "keywordsVi": [
+      "mở rộng",
+      "tiên liệu",
+      "tiến triển"
+    ],
+    "meaningVi": "Những nỗ lực đầu đã chuyển động; bạn nhìn ra xa với sự tự tin khi kế hoạch bắt đầu chạy.",
+    "meaningEn": "Early efforts set in motion; you look out with confidence as your plans begin to move."
+  },
+  {
+    "id": "four-of-wands",
+    "name": "Four of Wands",
+    "teaser": "A threshold of celebration — home, harmony, a milestone reached.",
+    "nameVi": "Bốn Gậy",
+    "teaserVi": "Ngưỡng cửa của lễ mừng — mái nhà, sự hòa hợp, một cột mốc đã chạm.",
+    "keywordsVi": [
+      "lễ mừng",
+      "hòa hợp",
+      "trở về nhà"
+    ],
+    "meaningVi": "Một ngưỡng cửa vui — sự ổn định, cộng đồng, và một khoảnh khắc đáng đánh dấu.",
+    "meaningEn": "A joyful threshold — stability, community, and a moment worth marking."
+  },
+  {
+    "id": "five-of-wands",
+    "name": "Five of Wands",
+    "teaser": "Scattered competition; friction that isn't quite a real fight.",
+    "nameVi": "Năm Gậy",
+    "teaserVi": "Cạnh tranh tản mát; va chạm mà chưa hẳn là một trận thật sự.",
+    "keywordsVi": [
+      "cạnh tranh",
+      "xung đột",
+      "va chạm"
+    ],
+    "meaningVi": "Những va chạm rời rạc và các cái tôi tranh nhau — hỗn loạn hơn là một trận đấu dứt khoát.",
+    "meaningEn": "Scattered clashes and competing egos — disorder more than a decisive fight."
+  },
+  {
+    "id": "six-of-wands",
+    "name": "Six of Wands",
+    "teaser": "Public recognition, a victory ridden out in the open.",
+    "nameVi": "Sáu Gậy",
+    "teaserVi": "Sự công nhận trước công chúng, một chiến thắng phi ngựa giữa thanh thiên bạch nhật.",
+    "keywordsVi": [
+      "chiến thắng",
+      "được công nhận",
+      "thành công"
+    ],
+    "meaningVi": "Sự thừa nhận công khai và một chiến thắng xứng đáng, phi ngựa giữa thanh thiên bạch nhật.",
+    "meaningEn": "Public acknowledgment and a well-earned win, ridden out in the open."
+  },
+  {
+    "id": "seven-of-wands",
+    "name": "Seven of Wands",
+    "teaser": "Holding your ground against those who would take it.",
+    "nameVi": "Bảy Gậy",
+    "teaserVi": "Giữ vững chỗ đứng trước những kẻ muốn giành lấy nó.",
+    "keywordsVi": [
+      "phòng thủ",
+      "bền chí",
+      "giữ vững lập trường"
+    ],
+    "meaningVi": "Giữ một vị thế khó nhọc mới có được trước những kẻ muốn giành lấy nó.",
+    "meaningEn": "Holding a hard-won position against challengers who want what you have."
+  },
+  {
+    "id": "eight-of-wands",
+    "name": "Eight of Wands",
+    "teaser": "Swift movement — messages and events arriving all at once.",
+    "nameVi": "Tám Gậy",
+    "teaserVi": "Chuyển động gấp gáp — tin nhắn và biến cố ập tới cùng lúc.",
+    "keywordsVi": [
+      "tốc độ",
+      "chuyển động",
+      "đổi thay nhanh"
+    ],
+    "meaningVi": "Biến cố và tin tức ập tới nhanh; những gì kẹt lâu bỗng chuyển động.",
+    "meaningEn": "Events and news arriving quickly; things long stalled suddenly in motion."
+  },
+  {
+    "id": "nine-of-wands",
+    "name": "Nine of Wands",
+    "teaser": "Weary but still standing, guarding what you've won.",
+    "nameVi": "Chín Gậy",
+    "teaserVi": "Mỏi mệt nhưng vẫn đứng, canh giữ những gì mình đã giành được.",
+    "keywordsVi": [
+      "kiên cường",
+      "bền bỉ",
+      "trận cuối"
+    ],
+    "meaningVi": "Tơi tả sau trận nhưng vẫn đứng, dùng chút sức cuối canh giữ những gì đã giành được.",
+    "meaningEn": "Battle-worn but still standing, guarding what you've earned with the last of your strength."
+  },
+  {
+    "id": "ten-of-wands",
+    "name": "Ten of Wands",
+    "teaser": "A heavy load carried the last stretch alone.",
+    "nameVi": "Mười Gậy",
+    "teaserVi": "Một gánh nặng gồng nốt chặng cuối một mình.",
+    "keywordsVi": [
+      "gánh nặng",
+      "trách nhiệm",
+      "làm cật lực"
+    ],
+    "meaningVi": "Gánh nhiều hơn phần mình ở chặng cuối — thành công đổi bằng sự căng sức.",
+    "meaningEn": "Carrying more than your share the final stretch — success at the cost of strain."
+  },
+  {
+    "id": "page-of-wands",
+    "name": "Page of Wands",
+    "teaser": "A restless spark of an idea, eager to begin.",
+    "nameVi": "Tiểu Đồng Gậy",
+    "teaserVi": "Một tia ý tưởng chưa yên, nôn nóng muốn bắt đầu.",
+    "keywordsVi": [
+      "cảm hứng",
+      "tò mò",
+      "tinh thần tự do"
+    ],
+    "meaningVi": "Một sứ giả háo hức của các ý tưởng, không yên vì muốn khám phá điều gì đó mới.",
+    "meaningEn": "An eager messenger of ideas, restless to explore something new."
+  },
+  {
+    "id": "knight-of-wands",
+    "name": "Knight of Wands",
+    "teaser": "Bold, headlong pursuit — charm and impatience in equal measure.",
+    "nameVi": "Hiệp Sĩ Gậy",
+    "teaserVi": "Cuộc rượt đuổi bạo dạn, lao thẳng — duyên dáng và nóng ruột ngang nhau.",
+    "keywordsVi": [
+      "hành động",
+      "phiêu lưu",
+      "táo bạo"
+    ],
+    "meaningVi": "Lao thẳng tới mục tiêu với sự duyên dáng, gan dạ và rất ít kiên nhẫn.",
+    "meaningEn": "Charging headlong toward a goal with charm, daring, and little patience."
+  },
+  {
+    "id": "queen-of-wands",
+    "name": "Queen of Wands",
+    "teaser": "Warm, confident magnetism that draws others in.",
+    "nameVi": "Nữ Hoàng Gậy",
+    "teaserVi": "Sức hút ấm áp, tự tin, kéo người khác về phía mình.",
+    "keywordsVi": [
+      "tự tin",
+      "ấm áp",
+      "sức hút"
+    ],
+    "meaningVi": "Rực rỡ và chắc chắn về mình, kéo người khác lại bằng hơi ấm và lòng can đảm tự nhiên.",
+    "meaningEn": "Vibrant and self-assured, drawing others in through natural warmth and courage."
+  },
+  {
+    "id": "king-of-wands",
+    "name": "King of Wands",
+    "teaser": "Visionary leadership that turns bold ideas into movements.",
+    "nameVi": "Vua Gậy",
+    "teaserVi": "Sự dẫn dắt có tầm nhìn, biến ý tưởng táo bạo thành phong trào.",
+    "keywordsVi": [
+      "tầm nhìn",
+      "dẫn dắt",
+      "táo bạo"
+    ],
+    "meaningVi": "Một người dẫn đầu bẩm sinh biến tầm nhìn táo bạo thành phong trào mà người khác đi theo.",
+    "meaningEn": "A natural leader turning bold vision into movement others follow."
+  },
+  {
+    "id": "ace-of-cups",
+    "name": "Ace of Cups",
+    "teaser": "An overflowing heart; love or feeling offered freely.",
+    "nameVi": "Át Cốc",
+    "teaserVi": "Một trái tim tràn đầy; tình yêu hay cảm xúc được trao đi không tính toán.",
+    "keywordsVi": [
+      "tình yêu mới",
+      "cảm xúc",
+      "trực giác"
+    ],
+    "meaningVi": "Trái tim mở ra — một cảm xúc, một mối quan hệ, hay một mạch trắc ẩn mới.",
+    "meaningEn": "The heart opening — a new feeling, relationship, or wellspring of compassion."
+  },
+  {
+    "id": "two-of-cups",
+    "name": "Two of Cups",
+    "teaser": "A meeting of equals, a bond formed cup to cup.",
+    "nameVi": "Hai Cốc",
+    "teaserVi": "Cuộc gặp của hai người ngang hàng, một mối dây kết lại qua hai chiếc cốc.",
+    "keywordsVi": [
+      "đồng hành",
+      "kết nối",
+      "hấp dẫn hai chiều"
+    ],
+    "meaningVi": "Hai người gặp nhau ngang hàng — một mối dây của sự trân trọng thật lòng từ cả hai phía.",
+    "meaningEn": "Two meeting as equals — a bond of genuine mutual regard."
+  },
+  {
+    "id": "three-of-cups",
+    "name": "Three of Cups",
+    "teaser": "Friends gathered in celebration and shared joy.",
+    "nameVi": "Ba Cốc",
+    "teaserVi": "Bạn bè tụ họp trong lễ mừng và niềm vui chung.",
+    "keywordsVi": [
+      "tình bạn",
+      "lễ mừng",
+      "cộng đồng"
+    ],
+    "meaningVi": "Bạn bè tụ họp trong hân hoan — niềm vui chung và cảm giác thuộc về.",
+    "meaningEn": "Friends gathered in gladness — shared joy and belonging."
+  },
+  {
+    "id": "four-of-cups",
+    "name": "Four of Cups",
+    "teaser": "Discontent that overlooks the cup already offered.",
+    "nameVi": "Bốn Cốc",
+    "teaserVi": "Sự bất mãn khiến ta bỏ qua chiếc cốc đã được chìa ra.",
+    "keywordsVi": [
+      "thờ ơ",
+      "trầm tư",
+      "bất mãn"
+    ],
+    "meaningVi": "Quay vào trong và không hài lòng, bỏ qua chiếc cốc đang được chìa ra.",
+    "meaningEn": "Turned inward and dissatisfied, overlooking the cup already being offered."
+  },
+  {
+    "id": "five-of-cups",
+    "name": "Five of Cups",
+    "teaser": "Grief fixed on what spilled, not on what still stands.",
+    "nameVi": "Năm Cốc",
+    "teaserVi": "Nỗi buồn dán mắt vào thứ đã đổ, không nhìn thứ vẫn còn đứng.",
+    "keywordsVi": [
+      "đau buồn",
+      "mất mát",
+      "tiếc nuối"
+    ],
+    "meaningVi": "Dán mắt vào thứ đã đổ, chưa chịu quay sang những chiếc cốc vẫn còn đứng.",
+    "meaningEn": "Fixed on what has spilled, not yet turning to the cups still standing."
+  },
+  {
+    "id": "six-of-cups",
+    "name": "Six of Cups",
+    "teaser": "Sweetness from the past — innocence and old kindness returning.",
+    "nameVi": "Sáu Cốc",
+    "teaserVi": "Vị ngọt từ quá khứ — sự hồn nhiên và lòng tốt cũ quay về.",
+    "keywordsVi": [
+      "hoài niệm",
+      "hồn nhiên",
+      "hội ngộ"
+    ],
+    "meaningVi": "Vị ngọt từ quá khứ — ký ức cũ, những cuộc hội ngộ, hay một lòng hào phóng giản dị.",
+    "meaningEn": "Sweetness from the past — old memories, reunions, or simple generosity."
+  },
+  {
+    "id": "seven-of-cups",
+    "name": "Seven of Cups",
+    "teaser": "Many tempting choices, not all of them real.",
+    "nameVi": "Bảy Cốc",
+    "teaserVi": "Nhiều lựa chọn hấp dẫn, mà không phải cái nào cũng có thật.",
+    "keywordsVi": [
+      "lựa chọn",
+      "ảo ảnh",
+      "tưởng tượng"
+    ],
+    "meaningVi": "Nhiều lựa chọn hấp dẫn lấp lánh trong không khí — không phải cái nào cũng có thật.",
+    "meaningEn": "Many tempting options shimmering in the air — not all of them real."
+  },
+  {
+    "id": "eight-of-cups",
+    "name": "Eight of Cups",
+    "teaser": "Walking away from what no longer fulfills you.",
+    "nameVi": "Tám Cốc",
+    "teaserVi": "Bước đi khỏi điều không còn làm bạn đủ đầy.",
+    "keywordsVi": [
+      "rời đi",
+      "tìm ý nghĩa",
+      "vỡ mộng"
+    ],
+    "meaningVi": "Bỏ lại phía sau thứ không còn làm bạn đủ đầy để đi tìm điều sâu hơn.",
+    "meaningEn": "Leaving behind what no longer fulfills you in search of something deeper."
+  },
+  {
+    "id": "nine-of-cups",
+    "name": "Nine of Cups",
+    "teaser": "Contentment and a wish fulfilled — the wish card.",
+    "nameVi": "Chín Cốc",
+    "teaserVi": "Sự mãn nguyện và một điều ước thành hiện thực — lá bài của ước nguyện.",
+    "keywordsVi": [
+      "mãn nguyện",
+      "thỏa lòng",
+      "ước nguyện thành"
+    ],
+    "meaningVi": "Lá bài của ước nguyện — sự thỏa mãn về cảm xúc và niềm mãn nguyện lặng lẽ, xứng đáng.",
+    "meaningEn": "The wish card — emotional satisfaction and quiet, earned contentment."
+  },
+  {
+    "id": "ten-of-cups",
+    "name": "Ten of Cups",
+    "teaser": "Emotional harmony, a family and home at peace.",
+    "nameVi": "Mười Cốc",
+    "teaserVi": "Sự hòa hợp trong cảm xúc, một gia đình và mái nhà bình yên.",
+    "keywordsVi": [
+      "hòa hợp",
+      "gia đình",
+      "niềm vui"
+    ],
+    "meaningVi": "Sự viên mãn cảm xúc được chia sẻ — một mái nhà và những mối dây bình yên.",
+    "meaningEn": "Emotional fulfillment shared — a home and bonds at peace."
+  },
+  {
+    "id": "page-of-cups",
+    "name": "Page of Cups",
+    "teaser": "A tender, imaginative message of the heart.",
+    "nameVi": "Tiểu Đồng Cốc",
+    "teaserVi": "Một thông điệp dịu dàng, giàu tưởng tượng của trái tim.",
+    "keywordsVi": [
+      "sáng tạo",
+      "trực giác",
+      "thông điệp dịu dàng"
+    ],
+    "meaningVi": "Một thông điệp nhẹ nhàng, giàu tưởng tượng, và một trái tim còn biết ngạc nhiên.",
+    "meaningEn": "A gentle, imaginative message, and a heart open to wonder."
+  },
+  {
+    "id": "knight-of-cups",
+    "name": "Knight of Cups",
+    "teaser": "A romantic bearing an offer, following feeling over reason.",
+    "nameVi": "Hiệp Sĩ Cốc",
+    "teaserVi": "Một người lãng mạn mang tới lời đề nghị, đi theo cảm xúc hơn lý trí.",
+    "keywordsVi": [
+      "lãng mạn",
+      "quyến rũ",
+      "theo trái tim"
+    ],
+    "meaningVi": "Một người mộng mơ tới cùng một lời đề nghị, dẫn lối bằng cảm xúc và lý tưởng.",
+    "meaningEn": "A dreamer arriving with an offer, led by feeling and ideals."
+  },
+  {
+    "id": "queen-of-cups",
+    "name": "Queen of Cups",
+    "teaser": "Deep compassion and intuition, holding space for others.",
+    "nameVi": "Nữ Hoàng Cốc",
+    "teaserVi": "Lòng trắc ẩn sâu và trực giác, giữ chỗ cho người khác.",
+    "keywordsVi": [
+      "trắc ẩn",
+      "trực giác",
+      "chiều sâu cảm xúc"
+    ],
+    "meaningVi": "Cảm nhận sâu và giàu trực giác, giữ chỗ cho người khác một cách đầy ân cần.",
+    "meaningEn": "Deeply feeling and intuitive, holding space for others with grace."
+  },
+  {
+    "id": "king-of-cups",
+    "name": "King of Cups",
+    "teaser": "Emotional mastery — feeling deeply, yet steady at the helm.",
+    "nameVi": "Vua Cốc",
+    "teaserVi": "Làm chủ cảm xúc — cảm nhận sâu sắc mà tay lái vẫn vững.",
+    "keywordsVi": [
+      "cân bằng cảm xúc",
+      "trắc ẩn",
+      "khéo léo"
+    ],
+    "meaningVi": "Cảm nhận sâu sắc mà vẫn vững — làm chủ được những dòng chảy cảm xúc.",
+    "meaningEn": "Feeling deeply yet steady — mastery of the emotional currents."
+  },
+  {
+    "id": "ace-of-swords",
+    "name": "Ace of Swords",
+    "teaser": "A breakthrough of clarity; the sharp edge of truth.",
+    "nameVi": "Át Kiếm",
+    "teaserVi": "Một khoảnh khắc bừng sáng; lưỡi sắc của sự thật.",
+    "keywordsVi": [
+      "sáng tỏ",
+      "sự thật",
+      "bừng ngộ"
+    ],
+    "meaningVi": "Một sự sáng tỏ đột ngột cắt xuyên qua hoang mang — sự thật được nhìn thấy sắc nét.",
+    "meaningEn": "A sudden clarity that cuts through confusion — truth seen sharply."
+  },
+  {
+    "id": "two-of-swords",
+    "name": "Two of Swords",
+    "teaser": "A stalemate, blindfolded, refusing to choose.",
+    "nameVi": "Hai Kiếm",
+    "teaserVi": "Thế bế tắc, bịt mắt, không chịu chọn.",
+    "keywordsVi": [
+      "bế tắc",
+      "lựa chọn khó",
+      "né tránh"
+    ],
+    "meaningVi": "Bịt mắt trước ngõ cụt, không chịu nhìn để khỏi phải chọn.",
+    "meaningEn": "Blindfolded at an impasse, refusing to see in order to avoid deciding."
+  },
+  {
+    "id": "three-of-swords",
+    "name": "Three of Swords",
+    "teaser": "The clean pain of heartbreak, sorrow that clarifies.",
+    "nameVi": "Ba Kiếm",
+    "teaserVi": "Nỗi đau sạch sẽ của trái tim tan vỡ, buồn bã mà làm mọi thứ sáng ra.",
+    "keywordsVi": [
+      "trái tim tan vỡ",
+      "sầu muộn",
+      "sự thật đau"
+    ],
+    "meaningVi": "Nỗi đau sạch và xuyên thấu của trái tim tan vỡ — buồn bã mà cũng làm mọi thứ sáng ra.",
+    "meaningEn": "The clean, piercing pain of heartbreak — sorrow that also clarifies."
+  },
+  {
+    "id": "four-of-swords",
+    "name": "Four of Swords",
+    "teaser": "Rest and retreat; recovery before the next round.",
+    "nameVi": "Bốn Kiếm",
+    "teaserVi": "Nghỉ ngơi và rút lui; hồi sức trước hiệp sau.",
+    "keywordsVi": [
+      "nghỉ ngơi",
+      "hồi phục",
+      "trầm tư"
+    ],
+    "meaningVi": "Một quãng dừng có chủ ý để lành lại và gom sức trước hiệp sau.",
+    "meaningEn": "A deliberate pause to heal and gather strength before the next round."
+  },
+  {
+    "id": "five-of-swords",
+    "name": "Five of Swords",
+    "teaser": "A hollow victory won at others' expense.",
+    "nameVi": "Năm Kiếm",
+    "teaserVi": "Một chiến thắng rỗng, giành được trên tổn thất của người khác.",
+    "keywordsVi": [
+      "xung đột",
+      "chiến thắng rỗng",
+      "thất bại"
+    ],
+    "meaningVi": "Một chiến thắng lấy đi nhiều hơn nó mang lại, bỏ lại sau lưng sự oán giận.",
+    "meaningEn": "A win that costs more than it gives, leaving resentment behind."
+  },
+  {
+    "id": "six-of-swords",
+    "name": "Six of Swords",
+    "teaser": "A passage toward calmer waters, leaving turbulence behind.",
+    "nameVi": "Sáu Kiếm",
+    "teaserVi": "Một chuyến sang vùng nước lặng hơn, bỏ lại phía sau sóng gió.",
+    "keywordsVi": [
+      "chuyển tiếp",
+      "bước tiếp",
+      "chuyến qua sông"
+    ],
+    "meaningVi": "Rời vùng nước động sang vùng lặng hơn — một chuyến đi cần thiết về phía trước.",
+    "meaningEn": "Leaving turbulent waters for calmer ones — necessary passage forward."
+  },
+  {
+    "id": "seven-of-swords",
+    "name": "Seven of Swords",
+    "teaser": "Strategy, stealth, or getting away with something.",
+    "nameVi": "Bảy Kiếm",
+    "teaserVi": "Mưu lược, lặng lẽ, hoặc thoát được một chuyện gì đó.",
+    "keywordsVi": [
+      "mưu lược",
+      "lặng lẽ",
+      "khôn khéo"
+    ],
+    "meaningVi": "Làm việc bằng trí và bằng sự lặng lẽ — mưu lược, hoặc thoát được một chuyện gì đó.",
+    "meaningEn": "Working by wits and stealth — strategy, or getting away with something."
+  },
+  {
+    "id": "eight-of-swords",
+    "name": "Eight of Swords",
+    "teaser": "Trapped by your own thoughts more than by the world.",
+    "nameVi": "Tám Kiếm",
+    "teaserVi": "Bị mắc kẹt trong chính suy nghĩ của mình hơn là trong hoàn cảnh.",
+    "keywordsVi": [
+      "gò bó",
+      "niềm tin giới hạn",
+      "thấy bị mắc kẹt"
+    ],
+    "meaningVi": "Bị trói bởi chính suy nghĩ của mình nhiều hơn bởi bất kỳ cái lồng có thật nào.",
+    "meaningEn": "Bound more by your own thoughts than by any real cage."
+  },
+  {
+    "id": "nine-of-swords",
+    "name": "Nine of Swords",
+    "teaser": "Anxiety in the dark hours, fears larger than the facts.",
+    "nameVi": "Chín Kiếm",
+    "teaserVi": "Nỗi lo trong những giờ tối, sợ hãi lớn hơn sự thật.",
+    "keywordsVi": [
+      "lo âu",
+      "sợ hãi",
+      "mất ngủ vì lo"
+    ],
+    "meaningVi": "Cái đầu giữa đêm phóng đại nỗi sợ vượt xa sự thật.",
+    "meaningEn": "The dark-hour mind magnifying fears far past the facts."
+  },
+  {
+    "id": "ten-of-swords",
+    "name": "Ten of Swords",
+    "teaser": "A painful ending, rock bottom that can only turn upward.",
+    "nameVi": "Mười Kiếm",
+    "teaserVi": "Một cái kết đau đớn, chạm đáy để chỉ còn đường đi lên.",
+    "keywordsVi": [
+      "kết thúc đau đớn",
+      "chạm đáy",
+      "phản bội"
+    ],
+    "meaningVi": "Một kết thúc nặng nề và dứt khoát — điểm thấp nhất mà từ đó chỉ còn đường đi lên.",
+    "meaningEn": "A hard, final ending — the low point that can only turn upward."
+  },
+  {
+    "id": "page-of-swords",
+    "name": "Page of Swords",
+    "teaser": "A curious, watchful mind hungry for the truth.",
+    "nameVi": "Tiểu Đồng Kiếm",
+    "teaserVi": "Một trí óc tò mò, cảnh giác, khát sự thật.",
+    "keywordsVi": [
+      "tò mò",
+      "cảnh giác",
+      "trí óc sắc"
+    ],
+    "meaningVi": "Một trí tuệ không yên, hay quan sát, khát học hỏi và phanh phui.",
+    "meaningEn": "A restless, watchful intellect hungry to learn and uncover."
+  },
+  {
+    "id": "knight-of-swords",
+    "name": "Knight of Swords",
+    "teaser": "Fierce intellect charging ahead, ideas before caution.",
+    "nameVi": "Hiệp Sĩ Kiếm",
+    "teaserVi": "Trí tuệ sắc bén xông lên, ý tưởng đi trước sự thận trọng.",
+    "keywordsVi": [
+      "tham vọng",
+      "động lực",
+      "thẳng thắn"
+    ],
+    "meaningVi": "Trí tuệ sắc và gan dạ lao thẳng tới đích, mặc kệ sự thận trọng.",
+    "meaningEn": "Fierce intellect and nerve charging toward a goal, caution be damned."
+  },
+  {
+    "id": "queen-of-swords",
+    "name": "Queen of Swords",
+    "teaser": "Clear-eyed honesty, perception unclouded by sentiment.",
+    "nameVi": "Nữ Hoàng Kiếm",
+    "teaserVi": "Sự thẳng thắn tỉnh táo, cái nhìn không bị tình cảm làm mờ.",
+    "keywordsVi": [
+      "sáng tỏ",
+      "thành thật",
+      "độc lập"
+    ],
+    "meaningVi": "Tỉnh táo và thành thật, nhìn thấu tới sự thật mà không bị tình cảm che.",
+    "meaningEn": "Clear-eyed and honest, seeing through to the truth without sentiment."
+  },
+  {
+    "id": "king-of-swords",
+    "name": "King of Swords",
+    "teaser": "Authority of the mind — truth, ethics, and clear judgment.",
+    "nameVi": "Vua Kiếm",
+    "teaserVi": "Uy quyền của trí óc — sự thật, đạo lý và phán đoán minh bạch.",
+    "keywordsVi": [
+      "uy quyền",
+      "sự thật",
+      "trí tuệ"
+    ],
+    "meaningVi": "Phán đoán minh bạch của một trí óc có nguyên tắc — sự thật và quyền uy công bằng.",
+    "meaningEn": "The clear judgment of a principled mind — truth and fair authority."
+  },
+  {
+    "id": "ace-of-pentacles",
+    "name": "Ace of Pentacles",
+    "teaser": "A tangible new opportunity — a seed of prosperity.",
+    "nameVi": "Át Tiền",
+    "teaserVi": "Một cơ hội mới cầm nắm được — hạt giống của sự thịnh vượng.",
+    "keywordsVi": [
+      "cơ hội",
+      "thịnh vượng",
+      "khởi sự mới"
+    ],
+    "meaningVi": "Một cơ hội mới cầm nắm được — hạt giống của sự an ổn, hoặc một chuyến khởi sự tinh khôi.",
+    "meaningEn": "A tangible new opportunity — the seed of security, or a fresh venture."
+  },
+  {
+    "id": "two-of-pentacles",
+    "name": "Two of Pentacles",
+    "teaser": "Juggling demands, keeping your balance in motion.",
+    "nameVi": "Hai Tiền",
+    "teaserVi": "Tung hứng các đòi hỏi, giữ thăng bằng trong lúc di chuyển.",
+    "keywordsVi": [
+      "cân bằng",
+      "linh hoạt",
+      "tung hứng"
+    ],
+    "meaningVi": "Giữ nhiều đòi hỏi cùng chuyển động, cân bằng một cách nhanh nhẹn.",
+    "meaningEn": "Keeping several demands in motion, balancing with agility."
+  },
+  {
+    "id": "three-of-pentacles",
+    "name": "Three of Pentacles",
+    "teaser": "Skilled collaboration, craft recognized and built upon.",
+    "nameVi": "Ba Tiền",
+    "teaserVi": "Sự hợp tác lành nghề, tay nghề được ghi nhận và bồi đắp.",
+    "keywordsVi": [
+      "hợp tác",
+      "tay nghề",
+      "làm việc nhóm"
+    ],
+    "meaningVi": "Công việc lành nghề được ghi nhận — cùng nhau xây một thứ cho tử tế.",
+    "meaningEn": "Skilled work recognized — building something well, together."
+  },
+  {
+    "id": "four-of-pentacles",
+    "name": "Four of Pentacles",
+    "teaser": "Holding tight to what you have, perhaps too tight.",
+    "nameVi": "Bốn Tiền",
+    "teaserVi": "Ôm chặt những gì mình có, có lẽ chặt quá.",
+    "keywordsVi": [
+      "an toàn",
+      "kiểm soát",
+      "tích cóp"
+    ],
+    "meaningVi": "Ôm chặt những gì bạn có — sự ổn định, có lẽ đang bị siết hơi mạnh tay.",
+    "meaningEn": "Holding tightly to what you have — stability, perhaps gripped too hard."
+  },
+  {
+    "id": "five-of-pentacles",
+    "name": "Five of Pentacles",
+    "teaser": "Hardship and want, help nearer than it feels.",
+    "nameVi": "Năm Tiền",
+    "teaserVi": "Khó khăn và thiếu thốn, sự giúp đỡ gần hơn ta tưởng.",
+    "keywordsVi": [
+      "gian khó",
+      "thiếu thốn",
+      "bất an"
+    ],
+    "meaningVi": "Sự thiếu thốn vật chất, và cảm giác bị bỏ lại ngoài giá lạnh.",
+    "meaningEn": "Material want, and the feeling of being left out in the cold."
+  },
+  {
+    "id": "six-of-pentacles",
+    "name": "Six of Pentacles",
+    "teaser": "Generosity flowing — giving and receiving in balance.",
+    "nameVi": "Sáu Tiền",
+    "teaserVi": "Lòng hào phóng đang chảy — cho và nhận cân bằng nhau.",
+    "keywordsVi": [
+      "hào phóng",
+      "cho và nhận",
+      "sẻ chia"
+    ],
+    "meaningVi": "Nguồn lực chảy một cách công bằng — thế cân bằng giữa cho đi và nhận lại.",
+    "meaningEn": "Resources flowing fairly — the balance of giving and receiving."
+  },
+  {
+    "id": "seven-of-pentacles",
+    "name": "Seven of Pentacles",
+    "teaser": "A pause to assess what your long labor has grown.",
+    "nameVi": "Bảy Tiền",
+    "teaserVi": "Một quãng dừng để xem công sức dài lâu đã lớn tới đâu.",
+    "keywordsVi": [
+      "kiên nhẫn",
+      "đánh giá lại",
+      "tầm nhìn dài"
+    ],
+    "meaningVi": "Dừng lại để cân xem công sức dài lâu đã lớn tới đâu, và tiếp theo là gì.",
+    "meaningEn": "Pausing to weigh what your long labor has grown, and what comes next."
+  },
+  {
+    "id": "eight-of-pentacles",
+    "name": "Eight of Pentacles",
+    "teaser": "Diligent craft, mastery earned through repetition.",
+    "nameVi": "Tám Tiền",
+    "teaserVi": "Nghề được mài giũa, sự thành thạo đến từ lặp đi lặp lại.",
+    "keywordsVi": [
+      "chuyên cần",
+      "thành thạo",
+      "rèn nghề"
+    ],
+    "meaningVi": "Nỗ lực kiên nhẫn và lặp lại, mài giũa một nghề tới độ thành thạo.",
+    "meaningEn": "Patient, repeated effort refining a craft toward mastery."
+  },
+  {
+    "id": "nine-of-pentacles",
+    "name": "Nine of Pentacles",
+    "teaser": "Self-made comfort, enjoying the fruits of your own work.",
+    "nameVi": "Chín Tiền",
+    "teaserVi": "Sự thảnh thơi tự mình gây dựng, hưởng quả từ chính tay mình.",
+    "keywordsVi": [
+      "sung túc",
+      "tự lực",
+      "thảnh thơi"
+    ],
+    "meaningVi": "Hưởng sự thảnh thơi và độc lập mà chính công việc của bạn đã đổi lấy.",
+    "meaningEn": "Enjoying the comfort and independence your own work has earned."
+  },
+  {
+    "id": "ten-of-pentacles",
+    "name": "Ten of Pentacles",
+    "teaser": "Lasting wealth, legacy, and the security of roots.",
+    "nameVi": "Mười Tiền",
+    "teaserVi": "Của cải bền lâu, di sản, và sự vững chãi của gốc rễ.",
+    "keywordsVi": [
+      "của cải",
+      "di sản",
+      "gia đình"
+    ],
+    "meaningVi": "Của cải bền và gốc rễ — sự an ổn trải qua nhiều thế hệ.",
+    "meaningEn": "Enduring wealth and roots — security that spans generations."
+  },
+  {
+    "id": "page-of-pentacles",
+    "name": "Page of Pentacles",
+    "teaser": "A studious beginner planning something practical.",
+    "nameVi": "Tiểu Đồng Tiền",
+    "teaserVi": "Một người mới chăm học, đang tính một chuyện thiết thực.",
+    "keywordsVi": [
+      "tham vọng",
+      "học hành",
+      "cơ hội mới"
+    ],
+    "meaningVi": "Một người mới chăm học, đang vạch những kế hoạch thiết thực cho một điều có thật.",
+    "meaningEn": "A studious beginner laying practical plans for something real."
+  },
+  {
+    "id": "knight-of-pentacles",
+    "name": "Knight of Pentacles",
+    "teaser": "Patient, methodical effort; slow and reliable progress.",
+    "nameVi": "Hiệp Sĩ Tiền",
+    "teaserVi": "Nỗ lực kiên nhẫn, có phương pháp; tiến chậm mà chắc.",
+    "keywordsVi": [
+      "chuyên cần",
+      "nếp làm việc",
+      "đáng tin"
+    ],
+    "meaningVi": "Nỗ lực đều tay, có phương pháp — tiến bộ không hào nhoáng nhưng đáng tin.",
+    "meaningEn": "Steady, methodical effort — unglamorous, dependable progress."
+  },
+  {
+    "id": "queen-of-pentacles",
+    "name": "Queen of Pentacles",
+    "teaser": "Nurturing abundance, grounded care for home and others.",
+    "nameVi": "Nữ Hoàng Tiền",
+    "teaserVi": "Sự sung túc biết chăm nom, quan tâm vững vàng cho nhà và người.",
+    "keywordsVi": [
+      "nuôi dưỡng",
+      "thiết thực",
+      "sung túc"
+    ],
+    "meaningVi": "Vững chãi và rộng lượng, chăm lo cho nhà, cho việc và cho người bằng hơi ấm.",
+    "meaningEn": "Grounded and generous, tending home, work, and others with warmth."
+  },
+  {
+    "id": "king-of-pentacles",
+    "name": "King of Pentacles",
+    "teaser": "Prosperous mastery — stability, success, and provision.",
+    "nameVi": "Vua Tiền",
+    "teaserVi": "Sự thành thạo thịnh vượng — ổn định, thành công và chu cấp.",
+    "keywordsVi": [
+      "thịnh vượng",
+      "ổn định",
+      "chu cấp"
+    ],
+    "meaningVi": "Sự thành thạo dư dả — một người chu cấp đáng tin, vững vàng trên những gì mình dựng.",
+    "meaningEn": "Abundant mastery — a reliable provider, secure in what they've built."
+  }
+]
