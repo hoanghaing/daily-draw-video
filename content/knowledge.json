@@ -49,7 +49,7 @@
   },
   {
     "id": "k-004",
-    "status": "queued",
+    "status": "used",
     "hook": "Vì sao chỉ nên rút một lá mỗi ngày?",
     "lines": [
       "Một lá đủ để bạn dừng lại và nghĩ một chút.",
