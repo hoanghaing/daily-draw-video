@@ -64,7 +64,7 @@
   },
   {
     "id": "k-005",
-    "status": "queued",
+    "status": "used",
     "hook": "Đừng hỏi tarot 'có hay không'.",
     "lines": [
       "Câu trả lời có hoặc không khép cánh cửa lại.",
