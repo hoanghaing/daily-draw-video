@@ -94,7 +94,7 @@
   },
   {
     "id": "k-007",
-    "status": "queued",
+    "status": "used",
     "hook": "Bộ Cốc không chỉ nói chuyện yêu đương.",
     "lines": [
       "Cốc thuộc nguyên tố nước: cảm xúc và trực giác.",
