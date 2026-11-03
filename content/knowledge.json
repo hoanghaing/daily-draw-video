@@ -142,7 +142,7 @@
   },
   {
     "id": "k-010",
-    "status": "queued",
+    "status": "used",
     "hook": "Bộ Tiền không chỉ nói chuyện tiền bạc.",
     "lines": [
       "Tiền thuộc nguyên tố đất: công việc, thói quen, nền móng.",
