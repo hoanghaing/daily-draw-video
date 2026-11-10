@@ -190,7 +190,7 @@
   },
   {
     "id": "k-013",
-    "status": "queued",
+    "status": "used",
     "hook": "Người Treo Ngược đang chờ, hay đang nhìn khác đi?",
     "lines": [
       "Anh dừng lại, nhưng không phải bị mắc kẹt.",
