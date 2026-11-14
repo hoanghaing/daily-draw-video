@@ -222,7 +222,7 @@
   },
   {
     "id": "k-015",
-    "status": "queued",
+    "status": "used",
     "hook": "Công Lý không phải lá phán xử người khác.",
     "lines": [
       "Lá này nói về hệ quả gặp lại nguyên nhân của nó.",
